@@ -1,0 +1,5634 @@
+[
+  {
+    "id": "B61D158D-83FA-4EF3-9F75-4138C66868A9",
+    "name": "Carlton Hotel Bangkok Sukhumvit-SHA Plus-certified",
+    "score": 0.21982706352719106,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/676167/676167a_hb_a_011.jpg",
+    "price": 7292.13,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EE52072A-2879-433C-BA05-E3D3951B0384",
+    "name": "The Continent Hotel Bangkok by Compass Hospitality",
+    "score": 4.640293219432351,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/185293/185293a_hb_a_020.jpg",
+    "price": 27938.9,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "792DA448-3788-4380-8749-465478E0F2DC",
+    "name": "Atlas Sukhumvit (Formerly Bally Suite Sukhumvit)",
+    "score": 9.274142285066773,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/106633/106633a_hb_a_003.jpg",
+    "price": 2258.53,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F7F8F920-C2F8-486D-BA39-0DB56016F602",
+    "name": "Arawana Regency Park Sukhumvit",
+    "score": 1.6292648652888602,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/053058/053058a_hb_a_006.jpg",
+    "price": 2508,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "917DF09F-721A-41E7-BBF0-BBF516CA3688",
+    "name": "Golden Tulip Mandison Suites",
+    "score": 1.5225763652124442,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/148072/148072a_hb_t_001.jpg",
+    "price": 4394.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "710F7E09-AAFD-4DF8-A895-492505158F3B",
+    "name": "Oakwood Suites Bangkok",
+    "score": 2.8257704497664236,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/70/704394/704394a_hb_a_001.jpg",
+    "price": 21794.07,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9B95C06B-600F-4B18-8030-68ECEA120B2E",
+    "name": "Nandha Hotel",
+    "score": 7.73618719613296,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/656666/656666a_hb_a_001.jpg",
+    "price": 2111.82,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AEB968EE-90AF-41BC-AD02-02515E916A81",
+    "name": "GM Serviced Apartment",
+    "score": 8.847745616469183,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232908/232908a_hb_a_063.jpg",
+    "price": 6160,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F99D05EF-F683-45A6-A6B3-42547E3FEC25",
+    "name": "Tai-Pan Hotel",
+    "score": 4.381078488542698,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080335/080335a_hb_a_002.jpg",
+    "price": 2870.12,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E43C03B2-097E-453B-87BF-46A23B3B7352",
+    "name": "Column Bangkok",
+    "score": 0.4480393002013443,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/130026/130026a_hb_a_028.JPG",
+    "price": 4374.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0B95D29D-8940-4380-AEBD-B43E34B69282",
+    "name": "Shama Lakeview Asoke (SHA Plus)",
+    "score": 4.95186003879644,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081642/081642a_hb_t_001.jpg",
+    "price": 12558.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F2F8C125-D627-4CF9-AD8C-B5B6E58AAC56",
+    "name": "Emporium Suites by Chatrium",
+    "score": 1.0568898820347385,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/082200/082200a_hb_a_032.jpg",
+    "price": 12788.53,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "81E611EE-FCF6-4AE7-86A1-DEB6E2407C86",
+    "name": "Park Plaza Sukhumvit Bangkok (Asoke)",
+    "score": 2.798237791059364,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/091788/091788a_hb_a_033.jpg",
+    "price": 4753.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "89740477-36E2-4555-AD55-523F43746501",
+    "name": "Centre Point Hotel Sukumvit 10",
+    "score": 4.588961868772458,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081418/081418a_hb_t_001.jpg",
+    "price": 4449.45,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "68B2C274-47B2-4168-AA4B-01778905A2A7",
+    "name": "Urbana Langsuan (formerly Fraser Place Langsuan)",
+    "score": 2.444911608894472,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/085813/085813a_hb_a_008.jpg",
+    "price": 5355.81,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4805D528-5DAA-4FAA-AA65-9F454DED9C89",
+    "name": "The Okura Prestige Bangkok",
+    "score": 5.7361044311765,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/176448/176448a_hb_t_001.jpg",
+    "price": 14639.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3C97B469-D71E-404A-8CD5-432A1B8C7734",
+    "name": "Oriental Residence Bangkok",
+    "score": 1.1219302884783247,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/175647/175647a_hb_a_001.jpg",
+    "price": 12137.81,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "539A7787-F13B-41E3-B542-C1BB48C3EB13",
+    "name": "Amari Residences Bangkok",
+    "score": 2.4341340943574323,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/135624/135624a_hb_t_001.jpg",
+    "price": 7572.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "15F482E4-C3A2-4848-9BAD-A72CB323F560",
+    "name": "Bliston Suwan Park View Bangkok",
+    "score": 9.002464654673531,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081644/081644a_hb_a_905.JPG",
+    "price": 4519.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7C6B45EF-7048-4311-B302-AF8B99AF04A1",
+    "name": "Centre Point Hotel Chidlom",
+    "score": 9.054946880940406,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081416/081416a_hb_t_001.jpg",
+    "price": 3501.86,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "09D985E4-8F99-47D6-9731-5E9BC52D4E0D",
+    "name": "Alix Bangkok Hotel",
+    "score": 7.611023725658015,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/661148/661148a_hb_a_001.jpg",
+    "price": 4409.54,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3257B4BD-A661-4E9F-AD58-076AD56AE3C5",
+    "name": "Nana Hiso Hotel",
+    "score": 2.606327690416947,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/27/271881/271881a_hb_t_001.jpg",
+    "price": 1677.06,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AAFC2F07-503C-4F6C-8184-3905A749BBE1",
+    "name": "Grand Mercure Bangkok Fortune",
+    "score": 8.748156856432615,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025699/025699a_hb_a_049.jpg",
+    "price": 5045.88,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FA810997-AC64-433D-BB97-DCA06FF35B51",
+    "name": "Hansar Bangkok",
+    "score": 1.593424131264328,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/147725/147725a_hb_a_001.jpg",
+    "price": 20239.14,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8A5F078A-ECA7-4505-BAE0-353B049A480E",
+    "name": "Baan K Residence",
+    "score": 6.484393534934497,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/157047/157047a_hb_t_009.jpg",
+    "price": 3912.57,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "49337687-DD75-4DB5-93EC-C68B3D99C706",
+    "name": "P2 Boutique Hotel",
+    "score": 5.299673807036015,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/129726/129726a_hb_a_005.jpg",
+    "price": 2669.23,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1227076D-1CE2-42A3-8A68-8539DAE70CD4",
+    "name": "AT Ease Saladaeng by Aetas",
+    "score": 0.12848171113000717,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081417/081417a_hb_a_001.jpg",
+    "price": 21489.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A024ED40-5212-4A3D-844E-4F1C040AF4F7",
+    "name": "Anantara Siam Bangkok",
+    "score": 0.7365556484146509,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079050/079050a_hb_t_002.jpg",
+    "price": 22916.19,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "37C3D53E-7FB3-44A0-BC1B-473B0E1B1E52",
+    "name": "SilQ Bangkok",
+    "score": 7.114542116592929,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/11/119284/119284a_hb_t_001.jpg",
+    "price": 8798.9,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "544EEE5B-9E6B-4A59-8266-A9AAC4CCC269",
+    "name": "The Sukhothai Bangkok",
+    "score": 0.7571170817391248,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/053056/053056a_hb_t_001.jpg",
+    "price": 20068.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B4D2AC2E-2744-4062-9CC0-79C79816772E",
+    "name": "A-One Bangkok",
+    "score": 8.847453263297211,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072604/072604a_hb_a_003.jpg",
+    "price": 12643.68,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D07C2767-72CA-4C16-AC4E-DC76B2A8E220",
+    "name": "ibis Styles Bangkok Sukhumvit 50",
+    "score": 8.30721343150799,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/47/479963/479963a_hb_a_002.jpg",
+    "price": 2059.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "87C42889-641A-4FB2-85BE-B8EA45BB09AB",
+    "name": "The Victory Executive Residences",
+    "score": 9.417995508149033,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/122783/122783a_hb_a_003.jpg",
+    "price": 1702.34,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6D13ED4E-054D-4F37-81A9-073ED7FD2E4B",
+    "name": "Every Surawong by ZUZU",
+    "score": 9.770001246892207,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668548/668548a_hb_a_020.jpg",
+    "price": 2245.43,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AFD3D63B-40C8-4646-AA21-4A3E07727A7D",
+    "name": "Mandarin Hotel Managed By Centre Point",
+    "score": 7.032147272191651,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025404/025404a_hb_a_007.jpg",
+    "price": 5160.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3CF33793-D85C-456B-8021-629F42529F41",
+    "name": "I-Residence Hotel Silom",
+    "score": 3.2908810671724495,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080980/080980a_hb_t_001.jpg",
+    "price": 2821.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E5DCDD79-B2E6-44EB-9BC4-A10BA1BB20A0",
+    "name": "The Sukosol ",
+    "score": 5.512738648358209,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/060694/060694a_hb_t_922.jpg",
+    "price": 5015.34,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C4510EE7-18FA-4A44-864B-8C824E2C382D",
+    "name": "Vince Hotel Pratunam",
+    "score": 5.584149934766174,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/41/410398/410398a_hb_a_015.jpg",
+    "price": 2107.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "AE1A0686-A413-4C81-BE20-ACCB56B8B3A2",
+    "name": "Royal President",
+    "score": 5.860074691248883,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081630/081630a_hb_a_001.jpg",
+    "price": 1710.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7F3CA976-1566-40DA-A370-7B58480A8C58",
+    "name": "Lit Bangkok Hotel & Residence",
+    "score": 2.1261235856436542,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/147625/147625a_hb_a_913.jpg",
+    "price": 6993.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CDBE94A6-6B60-4A95-82D0-B82488A578F5",
+    "name": "Le Tada Residence",
+    "score": 3.1949643151856435,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/48/480341/480341a_hb_a_001.jpg",
+    "price": 1900.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B2151E50-2512-43A2-9F6F-75623BE7AA54",
+    "name": "Chatrium Residence Sathon Bangkok",
+    "score": 9.195295136534696,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081537/081537a_hb_a_074.jpg",
+    "price": 5940,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6B323B2A-0884-444B-8606-86CB3BB258E7",
+    "name": "Ramada by Wyndham D MA Bangkok",
+    "score": 7.45101992380296,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081515/081515a_hb_a_019.jpg",
+    "price": 3837.21,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "2C6819D9-4171-4EF4-BE5C-26A590F56658",
+    "name": "Timber Hostel by ZUZU",
+    "score": 2.31221967206875,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/684532/684532a_hb_a_001.JPG",
+    "price": 3125.87,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "162CC79B-F854-443B-9E6F-4AF853720B38",
+    "name": "Avani Sukhumvit Bangkok Hotel",
+    "score": 0.37302837959941826,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/657222/657222a_hb_t_001.jpg",
+    "price": 6849.16,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "FDD66D00-F303-47C2-8D7C-4A5334FA3B7C",
+    "name": "Royal View Resort Hotel, Bangkok",
+    "score": 8.398172795670689,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138073/138073a_hb_a_002.jpg",
+    "price": 1813.88,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7412C486-B54D-413C-9096-797644FA00E9",
+    "name": "Graph Hotel (Formerly Bangkok Cha-da)",
+    "score": 9.678660022578697,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079040/079040a_hb_a_001.jpg",
+    "price": 2760.3,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "5FA4F30E-7BAE-46A6-A472-06F89A5772EF",
+    "name": "OYO 102 Diamond Residence Silom",
+    "score": 7.941510524433397,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/656132/656132a_hb_a_001.jpg",
+    "price": 815.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "289EEC63-8662-4CD6-A7E1-663DE22E9F3D",
+    "name": "OYO 1042 Boon’s Residence (sathorn)",
+    "score": 6.64116690098308,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/87/876830/876830a_hb_a_001.jpg",
+    "price": 4052.1,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C2C803BF-6153-471C-B66E-C4C781B5B2EC",
+    "name": "Novotel Bangkok Ploenchit Sukhumvit",
+    "score": 5.328741796096438,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/142168/142168a_hb_a_012.jpg",
+    "price": 4506.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "36C478DA-4BCD-4421-924C-ED2E31D9D89C",
+    "name": "Trinity Silom Hotel",
+    "score": 0.03221624359139241,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080385/080385a_hb_a_036.jpg",
+    "price": 2528.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "44E2E056-97C9-4A10-9712-87FEA85D1C8C",
+    "name": "Get Sleep Bangkok Surawongse (La Residence)",
+    "score": 6.31385082667839,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/253578/253578a_hb_a_013.JPG",
+    "price": 1442.54,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "55545C60-C1AF-4EF3-93D5-E76E27590E76",
+    "name": "JC KEVIN Sathorn Bangkok Hotel",
+    "score": 8.797539088322083,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/123839/123839a_hb_a_013.jpg",
+    "price": 5081.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "CF23FC6C-519E-4381-A6CA-CD77AFC0BAEC",
+    "name": "Amara Bangkok",
+    "score": 4.103913120507059,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/41/416338/416338a_hb_a_008.JPG",
+    "price": 5330.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "405EEC9C-4186-4CB6-9B86-60745918F013",
+    "name": "Maitria Hotel Rama 9 Bangkok",
+    "score": 2.90002414663104,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/73/736641/736641a_hb_a_002.jpg",
+    "price": 2785.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8D013615-7F2B-4B5A-B3E3-FDC91AA2D5CA",
+    "name": "fyn hotel",
+    "score": 0.6797816555081226,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/555547/555547a_hb_a_006.jpg",
+    "price": 3332.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9A094273-EF48-4A57-AE35-D1CEB67D50DA",
+    "name": "Aphrodite Inn Bangkok",
+    "score": 2.8055877876322484,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/147728/147728a_hb_a_001.jpg",
+    "price": 6502.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F34B61B4-06D5-4173-9256-B721E1795B8E",
+    "name": "Bandara Suite Silom",
+    "score": 4.79429638478905,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080453/080453a_hb_a_001.jpg",
+    "price": 4255.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BC97485A-C519-45AF-9F74-83B7E5D31F62",
+    "name": "Galleria 10 Sukhumvit by Compass Hospitality",
+    "score": 0.8122780179473921,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/146457/146457a_hb_t_001.jpg",
+    "price": 4438.24,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C203DBAE-553F-4A1B-A84C-11935AF4A94F",
+    "name": "Foresttel.bkk",
+    "score": 7.703433155071252,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/684058/684058a_hb_a_001.jpg",
+    "price": 1430.99,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1F30423C-3B52-4D0B-81D5-AF4B9697B225",
+    "name": "The Seasons Bangkok Huamark",
+    "score": 2.4163519705907675,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/061883/061883a_hb_a_001.jpg",
+    "price": 1685.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "CFF189BE-13C0-4634-A469-BB92324BE07B",
+    "name": "Jasmine Grande Residence",
+    "score": 4.996463667899661,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/22/223074/223074a_hb_a_002.jpg",
+    "price": 2315.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4F1A282B-2C78-4D41-8B19-A9D4D3D3D0BA",
+    "name": "iSanook Bangkok",
+    "score": 1.7471872687819996,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/22/229354/229354a_hb_t_002.JPG",
+    "price": 4119.85,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6DA42A1C-538E-446F-9682-A12B86BED6BE",
+    "name": "Le Tada Parkview Hotel",
+    "score": 5.3170790964286425,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/48/480361/480361a_hb_t_008.jpg",
+    "price": 3621.49,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "ECE90B3A-3254-4C02-8CA7-379E3B1B589B",
+    "name": "Kingston Suites",
+    "score": 6.76418884440136,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/133393/133393a_hb_a_001.jpg",
+    "price": 2245.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1EF323FE-41D3-4CD1-BC7F-843CC3D473C9",
+    "name": "The Embassy Sathorn",
+    "score": 3.8067958210522193,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/165364/165364a_hb_a_001.jpg",
+    "price": 1957.79,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8357158E-7E52-4191-A87F-B2684AF08767",
+    "name": "Town In Town Bangkok",
+    "score": 7.603519762229553,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081673/081673a_hb_a_001.jpg",
+    "price": 3231.16,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D2301CD4-11A4-4632-A3CB-6B59CAD2CA7D",
+    "name": "Ratchada Point",
+    "score": 8.36434556849781,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/52/527741/527741a_hb_a_001.jpg",
+    "price": 4310.64,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "90B0FDFC-76A7-488E-AA7C-8ED23BC04526",
+    "name": "Asia Hotel Bangkok",
+    "score": 8.867644587753603,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078965/078965a_hb_a_001.jpg",
+    "price": 2801.7,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1D3588F6-9C35-4BC3-B31D-D84953FC520C",
+    "name": "Royal Princess Larn Luang",
+    "score": 1.101910279277945,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079034/079034a_hb_t_001.jpg",
+    "price": 3259.26,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DAED9E0A-3515-4904-BC64-37FEEF9A8A26",
+    "name": "Mestyle Museum Hotel",
+    "score": 7.907681731754565,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/71/716296/716296a_hb_a_001.jpg",
+    "price": 2369.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6625C37D-00E9-4815-929B-094BD5F3E43B",
+    "name": "Shanghai Mansion Bangkok",
+    "score": 4.030227299113903,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081636/081636a_hb_a_024.jpg",
+    "price": 5703.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "05C68E18-78F9-4861-A179-C0A907AEF32F",
+    "name": "Aspira Tropical Residence Thong Lor",
+    "score": 3.9262156458644313,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/632653/632653a_hb_a_001.jpg",
+    "price": 3484.18,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "2BF2C2E6-B06A-4105-91EF-AA293D7BA060",
+    "name": "Sindhorn Kempinski Bangkok",
+    "score": 0.6317430450908432,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/70/702663/702663a_hb_a_005.jpg",
+    "price": 13470.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8C14BD47-B0A8-4CB0-9B68-D391ABC39B4D",
+    "name": "Spacy BKK by ZUZU",
+    "score": 5.421850814618665,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/75/755201/755201a_hb_a_002.jpg",
+    "price": 2148.56,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B9CF4B03-C32A-45D3-A5E0-5272ADEBA9B1",
+    "name": "Abloom Exclusive Serviced Apartments",
+    "score": 9.829617228933785,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/107275/107275a_hb_a_005.jpg",
+    "price": 2648.14,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B664DBFC-2866-4CE6-989F-CA7E31EB1601",
+    "name": "Century Park Hotel",
+    "score": 3.8754955016847816,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025739/025739a_hb_a_011.jpg",
+    "price": 3557.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1FDF4667-35C0-40B8-9402-D2BC2ACC386C",
+    "name": "Pho Place",
+    "score": 1.436187035877083,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/648544/648544a_hb_a_001.jpg",
+    "price": 1881.92,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DFFDE4A6-F225-49E4-9DC3-07C8AFF19164",
+    "name": "Live Local by ZUZU",
+    "score": 6.042281781286874,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/73/736561/736561a_hb_t_001.jpg",
+    "price": 1944.14,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B67C77B9-E78F-455F-A9AD-DF8C91CF2A90",
+    "name": "Swissôtel Bangkok Ratchada",
+    "score": 9.37486152708152,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078943/078943a_hb_a_001.jpg",
+    "price": 4128.04,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "49F08762-AEC3-490A-8FB6-1D5D8AD50EEE",
+    "name": "The Berkeley Hotel Pratunam",
+    "score": 1.0478059506458521,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/41/413986/413986a_hb_a_007.jpg",
+    "price": 6462.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F60FF172-FD29-4927-A0FD-102DA97BBF1E",
+    "name": "Steve Boutique Hostel [SHA Plus-certified]",
+    "score": 3.3492538220452843,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/231650/231650a_hb_t_001.jpg",
+    "price": 1485,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "60743A71-BEA0-4B42-B738-E8E1D8D708E9",
+    "name": "Samsen Sam Place",
+    "score": 3.614266900542134,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/646053/646053a_hb_a_001.jpg",
+    "price": 4840,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "65DD4391-88BB-454A-A24B-5BD7052ECBC7",
+    "name": "Zeds Hostel Bangkok by ZUZU",
+    "score": 2.204033154193894,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/73/737441/737441a_hb_t_001.jpg",
+    "price": 2264.69,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F1FE03BF-0FFA-459B-A196-387E5C1252C9",
+    "name": "Montien Riverside",
+    "score": 3.769704481419467,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025748/025748a_hb_a_013.jpg",
+    "price": 18087.3,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DEEBADDF-E90A-4183-B2E3-7F7FA63D34EB",
+    "name": "Small Space Cafe & Hostel by ZUZU",
+    "score": 2.8591071550508786,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/74/743489/743489a_hb_a_001.jpg",
+    "price": 7699.23,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B3FDBAE5-75BF-47CB-956A-C440BF039712",
+    "name": "Grand Tower Inn Rama VI",
+    "score": 8.861578378600825,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078885/078885a_hb_a_005.jpg",
+    "price": 1399.2,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A0F59BB4-978C-4265-B91F-603D26946E6A",
+    "name": "Boutique Poo-Yai Lee @BP Place",
+    "score": 3.392696795563097,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/671101/671101a_hb_a_001.jpg",
+    "price": 2342.47,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "70E928A7-A8B3-4131-BA23-8934313423CB",
+    "name": "Mode Sathorn Hotel",
+    "score": 7.2113091042519954,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/170586/170586a_hb_t_001.jpg",
+    "price": 5057.47,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FDAD4DB7-D4A1-461B-B89D-1907ABD8C3CD",
+    "name": "Grand China Hotel",
+    "score": 6.062430602942186,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/069642/069642a_hb_a_003.jpg",
+    "price": 20196,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4549140B-575A-45DF-89EB-AD24A03EF89F",
+    "name": "Anantara Riverside Bangkok Resort",
+    "score": 4.7157734522697865,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072606/072606a_hb_t_001.jpg",
+    "price": 17412.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BF48F6B0-78EB-470E-80FC-DC6CFA5BA73D",
+    "name": "Riva Surya Bangkok",
+    "score": 3.017026031982823,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/20/206289/206289a_hb_a_014.jpg",
+    "price": 7061.27,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "BDA75E5C-830B-4292-A47F-67A486D6E8C1",
+    "name": "I Residence Hotel Sathorn",
+    "score": 8.483663287534,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/100302/100302a_hb_a_004.jpg",
+    "price": 1835.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B2ACD2A7-648F-49E2-940F-337651E19D16",
+    "name": "Mall Suites Express",
+    "score": 9.943353518730873,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/253058/253058a_hb_a_042.jpg",
+    "price": 2107.28,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D3D73739-E9CF-43F9-A825-3255F05E344E",
+    "name": "Jasmine Resort",
+    "score": 9.720189863528503,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/147000/147000a_hb_t_001.jpg",
+    "price": 3259.27,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FB1324A6-D85D-46DC-B047-52C1F58BBE98",
+    "name": "OYO 994 Kudi Hostel",
+    "score": 9.14331155444961,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/82/827659/827659a_hb_a_001.JPG",
+    "price": 586.85,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "816FD273-3100-4562-9DBB-5961B93509EA",
+    "name": "ZENNIQ",
+    "score": 6.8556910598308605,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/653881/653881a_hb_a_002.jpg",
+    "price": 2598.98,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "ECFD0E16-6FA3-41A3-BC5F-61F87772E867",
+    "name": "Grand Lord (Boutique) Hotel",
+    "score": 2.957472683778178,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/665364/665364a_hb_a_001.jpg",
+    "price": 3614.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "ECB302B3-0421-4E8A-89A8-C6D5C9BF25A9",
+    "name": "Northgate Ratchayothin Hotel",
+    "score": 3.5288484987868287,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/141260/141260a_hb_a_004.jpg",
+    "price": 3750,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A30EAC29-9BF0-4F96-88F3-58B9BB7D0950",
+    "name": "The Park Nine Srinakarin",
+    "score": 8.952810844748456,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/253696/253696a_hb_a_020.jpg",
+    "price": 5802.19,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AFCDF3D7-D0BB-4A89-B0A2-34F56185BD82",
+    "name": "Sudyod Hotel",
+    "score": 3.7923131267652934,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/649464/649464a_hb_a_002.jpg",
+    "price": 1395.23,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A0EA99B8-1CDA-4C3A-86E5-B998C8E80FAB",
+    "name": "Salil Hotel Sukhumvit Soi Thonglor1",
+    "score": 2.0835862469975837,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/123186/123186a_hb_t_001.jpg",
+    "price": 3021.23,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "39619955-F938-4CE1-AD77-25260506CFCB",
+    "name": "Centara Grand at CentralWorld",
+    "score": 9.049453886666015,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/096025/096025a_hb_a_013.jpg",
+    "price": 12765.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "77010768-AA3B-4D4E-A9E1-B030735BC439",
+    "name": "Centara Watergate Pavillion Hotel Bangkok",
+    "score": 2.684924603701802,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/172409/172409a_hb_a_001.jpg",
+    "price": 5010.52,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A68C9E99-9C0E-438C-9234-1C51279E7E60",
+    "name": "OYO 564 Nature Boutique Hotel",
+    "score": 3.568730696395505,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/58/582484/582484a_hb_a_004.jpg",
+    "price": 847.81,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "88EAE476-A7FC-4A8F-AD0A-A17B8702F3B0",
+    "name": "Siam@Siam Design Hotel Bangkok",
+    "score": 9.299622666456344,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080300/080300a_hb_t_001.jpg",
+    "price": 3750,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "96540C88-C569-462A-A9FC-9F572CB5CC6F",
+    "name": "The Fifth Residence",
+    "score": 4.758085695273621,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/636064/636064a_hb_a_001.jpg",
+    "price": 1330.07,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "19CAEEC7-2EED-47D5-84F4-675BF694CC45",
+    "name": "Sukhumvit Suites Hotel",
+    "score": 7.8246797524789145,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/120597/120597a_hb_a_016.jpg",
+    "price": 8283.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0B0453E8-6B6C-48C1-8636-4D884C12217D",
+    "name": "Grand Tower Inn Sathorn",
+    "score": 2.975027249678533,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081533/081533a_hb_a_001.jpg",
+    "price": 1493.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "244B2209-C978-48D8-AF5C-B503150D2D30",
+    "name": "U Sathorn Bangkok",
+    "score": 3.0778571701921464,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/37/374278/374278a_hb_a_009.jpeg",
+    "price": 6081.56,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "72D1F683-AE16-46E2-8912-4A3BBA9D8549",
+    "name": "Riverine Place Hotel and Residence",
+    "score": 2.103952428118646,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/127697/127697a_hb_t_001.jpeg",
+    "price": 3432,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "BEFC95A1-8976-4F6F-80A3-8CECB73B45F9",
+    "name": "Amari Watergate Bangkok",
+    "score": 9.158999746992777,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/069638/069638a_hb_t_001.jpg",
+    "price": 6526.06,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C49D7B7A-1BF0-4401-B006-90BF34AEE7B7",
+    "name": "Heritage Bangkok",
+    "score": 4.47938591435377,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/103250/103250a_hb_a_001.jpg",
+    "price": 2347.77,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "51BBDD8A-5640-42CA-9ECA-DE594D13ABA6",
+    "name": "Q Space Residence by ZUZU",
+    "score": 0.7827414971834514,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668504/668504a_hb_a_001.jpg",
+    "price": 1540,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B43E18F7-22E4-4B84-A06F-993D32568265",
+    "name": "Oyo 498 Ladawan Villa",
+    "score": 6.6662195491680905,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/73/730252/730252a_hb_a_008.JPG",
+    "price": 1173.7,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "49AD96ED-3F6A-45A2-9645-C60A12D45AE9",
+    "name": "Brighton Hotel Bangkok",
+    "score": 3.319928945344145,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/27/275067/275067a_hb_a_051.jpg",
+    "price": 55000,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DA79ED1D-EA76-42F6-9D26-385B97D55DF8",
+    "name": "Eleven Hotel Bangkok",
+    "score": 4.456063140065453,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/680323/680323a_hb_t_001.jpg",
+    "price": 4712.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6AA84EFA-7931-41D6-B3DD-BC10375C93BA",
+    "name": "Win Long Place",
+    "score": 6.357218835033564,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/180348/180348a_hb_t_001.jpg",
+    "price": 1327.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CF02AC8C-4DAC-4FAA-9E6F-0BCC88A8D192",
+    "name": "Centara Grand at Central Plaza Ladprao Bangkok",
+    "score": 8.434338052902604,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078941/078941a_hb_a_013.jpg",
+    "price": 5294.56,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "91035231-632C-4B6A-AD7E-35E30B0C5890",
+    "name": "Ambassador Bangkok",
+    "score": 2.2532000139872252,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072614/072614a_hb_a_002.jpg",
+    "price": 4481.48,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "44012A1B-C841-4347-8C61-6B24E5FC6F0E",
+    "name": "Rembrandt Hotel & Suites",
+    "score": 0.5045733686820313,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025752/025752a_hb_a_031.jpg",
+    "price": 3087.04,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FA40CF71-07A2-4FF6-BB50-756D88696E83",
+    "name": "Bangna Pride Hotel & Residence",
+    "score": 4.1968600835425605,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/133279/133279a_hb_a_002.jpg",
+    "price": 3344.81,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "21D49120-BB90-43A3-93E3-6E96295DA209",
+    "name": "Chatrium Hotel Riverside Bangkok",
+    "score": 1.717768428981799,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/105404/105404a_hb_a_062.jpg",
+    "price": 6623.06,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CDAE213E-E475-4241-9837-CEA736A51B27",
+    "name": "Bangkok Midtown Hotel",
+    "score": 4.377938416764664,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/62/621829/621829a_hb_a_014.jpg",
+    "price": 2716.05,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "969FB9DE-7E8E-4213-82D5-D58F8731FCB8",
+    "name": "Al Meroz Hotel Bangkok (SHA)",
+    "score": 8.329500001667839,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/42/425378/425378a_hb_a_002.jpg",
+    "price": 3938.23,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6410EBF6-C8A5-42A3-B412-167567B1FEE4",
+    "name": "Baan Oliver Srinakarin",
+    "score": 4.914641867055252,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/669792/669792a_hb_a_001.jpg",
+    "price": 49995,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "3775EF23-2641-43D2-B4E3-60E5CAB30670",
+    "name": "Chillax Heritage Hotel",
+    "score": 8.417887156056167,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/636406/636406a_hb_a_001.jpg",
+    "price": 2801.7,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E393EBFD-9C2C-4969-A563-C79678306E6C",
+    "name": "OYO 117 King One Suvarnabhumi Hotel",
+    "score": 1.0954678148482344,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/255869/255869a_hb_a_008.jpg",
+    "price": 657.58,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D45D8BDE-E5E5-4433-9A30-39B879B1E78A",
+    "name": "Sabai Sabai @ Sukhumvit",
+    "score": 2.277030108791223,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/139269/139269a_hb_a_001.jpeg",
+    "price": 1755.33,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "69C681CB-9051-4DCB-ABC0-C34161A2E352",
+    "name": "Centra By Centara Government Complex Hotel & Conve",
+    "score": 9.898554581117423,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/22/228775/228775a_hb_a_021.jpg",
+    "price": 2878.12,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0022386D-AABA-4BE9-8307-D658AB552EEC",
+    "name": "Oakwood Residence Sukhumvit 24 Bangkok",
+    "score": 1.7093921149244125,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/098601/098601a_hb_a_001.jpg",
+    "price": 15840,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FA911EE4-698B-4914-B6CD-EA118F0E2CD6",
+    "name": "The Park Nine Hotel Suvarnabhumi",
+    "score": 0.7699999995074904,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/663388/663388a_hb_a_002.jpg",
+    "price": 13205.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "82411B1B-09B8-4B70-BCD9-BF81123D4502",
+    "name": "SK Boutique Mahanakhon Hotel",
+    "score": 6.802846245063847,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/252974/252974a_hb_a_009.jpg",
+    "price": 1705.43,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1E94DFE0-070C-4C1B-BAA3-05AA4E36FBCE",
+    "name": "U Tiny Boutique Suvarnabhumi Airport Hotel",
+    "score": 7.111298949695993,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/60/603312/603312a_hb_a_001.jpg",
+    "price": 2398.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8A9FCF18-6BBC-4E7B-98A4-596EDC154B04",
+    "name": "Tower Club at Lebua - SHA Extra Plus",
+    "score": 5.41906970456148,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/067021/067021a_hb_t_010.jpg",
+    "price": 16553.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6BBA96A7-9311-4018-90A5-9248084268A5",
+    "name": "Indra Regent",
+    "score": 6.298313690447685,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025403/025403a_hb_a_018.jpg",
+    "price": 2850.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "2996333F-22B0-48CB-9C4C-9FA218966ECD",
+    "name": "The Peninsula Bangkok",
+    "score": 6.975571420298365,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/026761/026761a_hb_t_006.jpg",
+    "price": 12627.78,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "43C11463-6FB0-4F2E-BCF1-04EB4363F15D",
+    "name": "Miracle Suvarnabhumi Airport",
+    "score": 3.8186429280158336,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/105799/105799a_hb_a_004.jpg",
+    "price": 2350.95,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "51DA6F12-6BF7-46E7-A9F9-4D9958E3F289",
+    "name": "Sinsuvarn Airport Suite",
+    "score": 9.99277205886574,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/128750/128750a_hb_a_003.jpg",
+    "price": 1647.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DC73B771-55B3-4BDA-9B62-7CAE6EBC2727",
+    "name": "Lebua at State Tower - SHA Extra Plus",
+    "score": 0.02583248911469127,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/169828/169828a_hb_a_031.jpg",
+    "price": 15830.95,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0DD4D7E9-25F6-4247-9D6E-ECDA9F47EC52",
+    "name": "The Cottage Suvarnabhumi",
+    "score": 1.3338440763891413,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/135010/135010a_hb_a_001.jpg",
+    "price": 1148.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EC994A86-0957-4C8A-A836-45C305C3DED8",
+    "name": "Solitaire Bangkok Sukhumvit 11",
+    "score": 4.898062192612997,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/61/610881/610881a_hb_a_002.jpg",
+    "price": 4186.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6F8BB7FB-2CAB-4BA7-83FB-24E0AAD7CBC7",
+    "name": "Oakwood Residence Sukhumvit Thonglor",
+    "score": 6.944753095503984,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/152561/152561a_hb_a_006.jpg",
+    "price": 15048,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0FE304AA-F8B9-4C2A-9284-20A549D21EA2",
+    "name": "KC Place Hotel Pratunam",
+    "score": 7.279794012823913,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/188915/188915a_hb_a_001.jpg",
+    "price": 2739.46,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4B3C2544-680A-4F34-943C-AFDA36C6CFE6",
+    "name": "The Grand Sathorn Hotel",
+    "score": 6.456052051253209,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/44/441858/441858a_hb_t_001.jpg",
+    "price": 2460.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "725D3EB6-CFA6-4EF8-AD07-B72F9B647B22",
+    "name": "COMO Metropolitan Bangkok",
+    "score": 1.1609928767302335,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078948/078948a_hb_a_009.jpg",
+    "price": 8442.45,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1AF09EC5-9C55-417C-9E44-042901EDECAF",
+    "name": "Amari Don Muang Airport",
+    "score": 1.9522275219333096,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/069637/069637a_hb_a_032.jpg",
+    "price": 4056.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CAAF8B79-E5B6-4A7E-ABC0-0C025671E471",
+    "name": "Great Residence Hotel",
+    "score": 5.167479660345634,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/120224/120224a_hb_a_013.jpg",
+    "price": 1373.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "582DDE96-22FF-44D4-A92A-A3C95C3B8A3B",
+    "name": "Suvarnabhumi Suite (SHA+)",
+    "score": 4.687180086380977,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/141879/141879a_hb_a_010.jpg",
+    "price": 2120.23,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A7D31A12-20D5-4617-871A-604B8488B3CB",
+    "name": "Buddy Oriental Riverside Pakkred",
+    "score": 7.5978381868881115,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156158/156158a_hb_a_001.jpg",
+    "price": 4214.56,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6057DCFC-2935-495A-AFF2-A0DB144D036E",
+    "name": "Thong Ta Resort & Spa",
+    "score": 6.8864935531910305,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/11/116819/116819a_hb_a_006.jpg",
+    "price": 1160.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "61995084-CC3D-4EED-B3BE-D3FC83A5896A",
+    "name": "Hotel Verve Bangkok (Formerly Grand Tower Inn 55)",
+    "score": 5.965044882076654,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/085061/085061a_hb_a_001.JPG",
+    "price": 2658.13,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BF5D7D5A-446C-4C16-8ED2-4FA7272D38FC",
+    "name": "Aspira Hiptique Sukhumvit 13",
+    "score": 9.259127813247687,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/152597/152597a_hb_a_003.jpg",
+    "price": 2934.67,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B399FB82-31AC-4E10-ADEE-A25A4335154E",
+    "name": "S 15 Sukhumvit",
+    "score": 2.7838421969008778,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/095059/095059a_hb_a_010.jpg",
+    "price": 5917.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "ADA8D51E-6C45-4A03-8D59-021177B98C03",
+    "name": "Time Sabai 134 by ZUZU",
+    "score": 1.503562560982573,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/71/716908/716908a_hb_a_004.jpg",
+    "price": 4501.07,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "13D0723A-A432-454F-9982-C320697277F5",
+    "name": "Issara House Bangkok by ZUZU",
+    "score": 5.970126526073727,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/689652/689652a_hb_a_001.jpg",
+    "price": 1630.2,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "90C71D2A-A5B5-4BCB-A9F3-13F7DC6BB361",
+    "name": "Convenient Grand Hotel Suvarnabhumi",
+    "score": 2.1577312420595263,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/129755/129755a_hb_a_001.jpg",
+    "price": 1564.29,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B5548CAC-14FF-46D0-9024-51D3DDEE28F2",
+    "name": "Dazzle Sukhumvit 7",
+    "score": 7.481988401588751,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/655026/655026a_hb_t_003.jpg",
+    "price": 2910.05,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C7A5717C-7C75-437F-9E12-9FEBCA199598",
+    "name": "Best Western Plus Wanda Grand Hotel",
+    "score": 2.9514940933595426,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/46/462042/462042a_hb_a_001.jpg",
+    "price": 2512.69,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9E496687-71C5-4349-9FCC-3A8B907FBF4F",
+    "name": "De Prime Rangnam Hotel",
+    "score": 0.39623512682192086,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/651995/651995a_hb_a_004.jpg",
+    "price": 5940.07,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E0DC5F5E-2BFD-4ABA-BBA5-F1D03F33431E",
+    "name": "Suvarnabhumi Oriental Resort",
+    "score": 9.473005711222868,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668567/668567a_hb_a_001.jpg",
+    "price": 2073.91,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "84D1AAAA-EB1A-4E0D-8FDE-09E4A47DA7C9",
+    "name": "The Duchess Hotel",
+    "score": 7.6081325171480785,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079015/079015a_hb_a_005.jpg",
+    "price": 4893.67,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8972D3B9-CBAD-4D63-A3BB-80C1529BA6B3",
+    "name": "The Manhattan Sukhumvit Bangkok",
+    "score": 5.328000672971939,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080492/080492a_hb_t_001.jpg",
+    "price": 2871,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "30D69FFF-7A52-4286-9F89-450B3A1705A6",
+    "name": "Pinnacle Lumpinee Park",
+    "score": 0.9232881519146758,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/074760/074760a_hb_a_001.jpg",
+    "price": 2247.76,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "003A2F05-A869-4C39-A6E6-6393395116C4",
+    "name": "Lancaster Bangkok",
+    "score": 0.8082397728394426,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/48/484241/484241a_hb_t_001.jpg",
+    "price": 12924.65,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DBDE9A39-163E-4433-9418-17426C8FBDCD",
+    "name": "OYO 75368 Demadre Resort",
+    "score": 7.446142444757243,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/87/877958/877958a_hb_a_001.JPG",
+    "price": 532.05,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "19F2A5EB-0C32-4E4C-A240-1E2F213C4CBD",
+    "name": "Heritage Hotels Srinakarin",
+    "score": 5.8702465009337175,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/125670/125670a_hb_a_001.jpg",
+    "price": 1469.37,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "40E131C6-48F2-4685-B9B5-7F967F81A774",
+    "name": "SureStay Plus Hotel by Best Western Sukhumvit 2",
+    "score": 5.323521622125554,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/61/613434/613434a_hb_a_001.jpg",
+    "price": 2598.89,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A000921B-0569-4C48-BCA2-1C12A66A03F5",
+    "name": "Sawasdee Sukhumvit Inn",
+    "score": 4.693137962932269,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079037/079037a_hb_a_008.jpg",
+    "price": 2059.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E016A984-7160-4198-B6C3-0879C4820D75",
+    "name": "H-Residence Sathorn",
+    "score": 7.827261194189305,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/158864/158864a_hb_t_001.jpg",
+    "price": 2021.45,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8CFF9C34-C077-41BC-A7C1-61F0BB29FC9B",
+    "name": "The Salil Hotel Sukhumvit 57 - Thonglor",
+    "score": 5.984789943650867,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/58/582167/582167a_hb_a_001.jpg",
+    "price": 5767.78,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7D30EE8B-FC50-425A-A0E6-1AB56E1AC457",
+    "name": "Khurana Inn",
+    "score": 0.7260380093739514,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/132801/132801a_hb_a_007.jpg",
+    "price": 1929.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "91621106-3C48-4BDF-A384-5FEC9509D472",
+    "name": "One One Bangkok Hotel",
+    "score": 7.272065259192459,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/54/541282/541282a_hb_a_002.jpg",
+    "price": 3552.97,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6EC8BB3F-E779-4D2C-92FF-A5AAEE913B31",
+    "name": "Shama Sukhumvit",
+    "score": 0.6115195699931064,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/19/197648/197648a_hb_a_001.jpg",
+    "price": 8286.08,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "28623BDB-3778-4E02-8E1F-92DFD12AB6E4",
+    "name": "Lily Hotel Bangkok",
+    "score": 6.187198344613535,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/162340/162340a_hb_a_001.jpg",
+    "price": 1606.75,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8C2811B6-9295-49A5-B61C-EDE1973153AC",
+    "name": "Amaranth Suvarnabhumi Airport, BW Prem. Coll.",
+    "score": 5.897247183975196,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/120222/120222a_hb_a_114.jpg",
+    "price": 3435.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8EC309E5-8301-4633-9C17-31CFA3E8863C",
+    "name": "Lohas Residences Sukhumvit",
+    "score": 5.225784355121505,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/146899/146899a_hb_t_001.JPG",
+    "price": 2471.91,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AE15B72E-46DA-4D1B-9F79-051EAEE42AD8",
+    "name": "New Siam II Guest House",
+    "score": 1.9763099073752528,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/664909/664909a_hb_a_001.jpg",
+    "price": 1163.9,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7B70BAB4-06FE-4FB9-9142-8A4B288A06E7",
+    "name": "Evergreen Laurel Bangkok",
+    "score": 2.4975859406313248,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080390/080390a_hb_a_002.jpg",
+    "price": 5296.3,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CAD208EB-2AC7-463C-A823-B353FE1F9022",
+    "name": "Greenpoint Residence",
+    "score": 6.841324717365751,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/650172/650172a_hb_a_005.jpg",
+    "price": 2938.83,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "81FF9349-E3E6-4CED-9E5D-36B2E5228ED1",
+    "name": "BelAire Bangkok",
+    "score": 6.415035600174633,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/069639/069639a_hb_a_004.JPG",
+    "price": 6025.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9F564636-4C98-47C3-9861-F9B1B730392E",
+    "name": "Maitria Hotel Sukhumvit 18 Bangkok",
+    "score": 7.789115438618865,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/133281/133281a_hb_a_021.jpg",
+    "price": 2996.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9212B2BF-E44E-4A83-B586-1FC6AAE94A6C",
+    "name": "Fraser Suites Sukhumvit (SHA PLUS)",
+    "score": 4.682710140714335,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/087559/087559a_hb_a_007.jpg",
+    "price": 7830.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A9029D97-D2BF-4C9A-811B-A3E71056321B",
+    "name": "Botanic Service Room @Impact Muang Thong Thani",
+    "score": 9.682913793953958,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/57/574702/574702a_hb_a_001.jpg",
+    "price": 6017,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E607A698-83F1-4CD3-8131-AFE359F5D5EA",
+    "name": "First House Hotel Bangkok",
+    "score": 4.9598858770177685,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025401/025401a_hb_a_002.jpg",
+    "price": 2119.43,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "2EC4B077-75DA-4504-A617-6ED229BA651F",
+    "name": "Gusto Pratunam Hotel",
+    "score": 0.857138718492024,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/179807/179807a_hb_a_002.jpg",
+    "price": 1933.46,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A8829811-0159-4DCE-A57D-E0494026B74D",
+    "name": "Time Sabai 32 by ZUZU",
+    "score": 5.600587377831289,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/72/724083/724083a_hb_a_001.jpg",
+    "price": 2664.75,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "21D05F18-00B4-4FF5-B573-73E7C4E35EFB",
+    "name": "FX Hotel Metrolink Makkasan",
+    "score": 2.2029232662926006,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/172528/172528a_hb_a_001.jpg",
+    "price": 2059.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1C9C76A0-EC49-4214-A037-7ACC06E74919",
+    "name": "Sunny Residence",
+    "score": 6.297096303591388,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/56/560941/560941a_hb_a_001.jpg",
+    "price": 1404.85,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "BF9A68FA-29F4-4229-82B1-1FD29CE3F314",
+    "name": "Bunny Burrow Hostel",
+    "score": 4.134133812839536,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/69/696450/696450a_hb_a_008.jpg",
+    "price": 1030.48,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "3CD9F238-C82C-4167-AC29-705F9C15CF46",
+    "name": "W22 by Burasari",
+    "score": 2.3117483634050586,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/630001/630001a_hb_a_001.JPG",
+    "price": 1678.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C6BE9789-5C08-4450-8D1E-2F06FFD34023",
+    "name": "Centre point sukhumvit thong lo",
+    "score": 9.132049723798445,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/084780/084780a_hb_t_001.jpg",
+    "price": 4950,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EF2529E7-96F7-4E72-8D41-EB484BB5695F",
+    "name": "Baiyoke Sky",
+    "score": 6.703931273934359,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025697/025697a_hb_a_002.jpg",
+    "price": 3379.97,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EA7CABEB-FA60-4383-A9BF-F832DC369B65",
+    "name": "Anna-Nava Pakkret",
+    "score": 6.805394183456883,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/661060/661060a_hb_a_002.jpg",
+    "price": 1475.79,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D0CE077E-C934-4C7A-BDEE-A3A25BB84119",
+    "name": "DVaree Residence Montara Thonglor 25",
+    "score": 5.204152499828524,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/234183/234183a_hb_a_018.jpg",
+    "price": 3354.07,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4D0ABEBB-86FA-404E-B379-52234981AA4C",
+    "name": "Plai Garden Boutique Guesthouse / Suvarnabhumi Air",
+    "score": 7.218793552235184,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/27/271489/271489a_hb_a_002.jpg",
+    "price": 675.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "10B922C5-229E-40CC-8E38-203239F427CD",
+    "name": "Centre Point Silom",
+    "score": 3.85326082282063,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079492/079492a_hb_a_036.jpg",
+    "price": 3259.26,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C93CEF5B-491A-40AD-A0E5-1A9B9084197F",
+    "name": "Canalis Suvarnabhumi Airport Hotel (SHA Plus+)",
+    "score": 9.042064497362844,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/71/712663/712663a_hb_a_001.jpg",
+    "price": 3550.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "90E7DCF3-79C6-47ED-9AB7-AEDD78227F10",
+    "name": "Vismaya Suvarnabhumi Resort",
+    "score": 5.248790837179513,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/161963/161963a_hb_a_004.jpg",
+    "price": 2239.02,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "63461003-85D9-4EE7-859F-55C9B95995DE",
+    "name": "Novotel Bangkok on Siam Square",
+    "score": 8.449916283940183,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079399/079399a_hb_a_120.jpg",
+    "price": 3760.68,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "FD6F2698-3250-4459-B002-9D2E0F95A986",
+    "name": "Heritage Hotels Sathorn",
+    "score": 7.087148249595884,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/11/116496/116496a_hb_a_001.jpg",
+    "price": 1168.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A64DD491-46DD-4386-9DFD-5A62645B9144",
+    "name": "Arnoma Grand Bangkok",
+    "score": 9.291979032987001,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025696/025696a_hb_t_001.jpg",
+    "price": 14850,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EF2342C8-D055-4AD9-ADFA-D1C44CF7B596",
+    "name": "Siam Kempinski Hotel Bangkok",
+    "score": 9.585534913876472,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/133164/133164a_hb_a_001.jpg",
+    "price": 17529.75,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D9960664-C3B2-4B14-AF64-9B0584EBDC81",
+    "name": "Diamond City Hotel",
+    "score": 4.687794078256047,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138081/138081a_hb_a_001.jpg",
+    "price": 1288.49,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7B3CC522-6277-47D7-9624-CE7395CF48EA",
+    "name": "New Central Guesthouse",
+    "score": 6.759743330318997,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/679058/679058a_hb_a_001.jpg",
+    "price": 778.79,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "99CF71C4-8157-40A3-A4FA-522C960F9C93",
+    "name": "Sleep Dee Hostel by ZUZU",
+    "score": 9.887453142191589,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/69/690191/690191a_hb_a_001.jpg",
+    "price": 1298.9,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B1FA89EC-EE54-467B-8FEE-3C925F0281D1",
+    "name": "Bally Suite Silom",
+    "score": 9.594666738522392,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/105826/105826a_hb_a_020.JPG",
+    "price": 1754.06,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9C7DF834-875F-49C2-8D1D-D489D1AA3391",
+    "name": "48Metro Hotel Bangkok",
+    "score": 8.63726125323501,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668505/668505a_hb_t_001.jpg",
+    "price": 1040.84,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "752E775B-8B43-4E8E-B827-9ACEF3E2802E",
+    "name": "The Narathiwas Hotel & Residence Sathorn Bangkok",
+    "score": 1.5624228569067782,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/556942/556942a_hb_t_014.jpg",
+    "price": 1976.14,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BF4ACF4B-9949-47AB-A7CC-DD69A8446C22",
+    "name": "H2 Hotel",
+    "score": 6.7250729445722754,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/58/583402/583402a_hb_a_002.jpg",
+    "price": 1080.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "2318AC19-90F7-4B5F-8A81-FFB6B3C5D8AA",
+    "name": "The Unforgotten B&B",
+    "score": 5.223541468992153,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/631112/631112a_hb_a_001.jpg",
+    "price": 4943.82,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "46E75710-7CDF-45D3-A9DD-E3E9C3F32D7F",
+    "name": "Jasmine 59 Hotel",
+    "score": 4.3200511649392865,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/644421/644421a_hb_a_004.jpg",
+    "price": 4776.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E3ED18C6-6AB1-4A5A-A467-884B8B535CCF",
+    "name": "D Varee Xpress Makkasan",
+    "score": 2.3120382120578142,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/19/190071/190071a_hb_a_906.jpg",
+    "price": 1885.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8BD40B29-F199-4C35-B66F-706A55DA3A3B",
+    "name": "White House Bizotel",
+    "score": 1.362633728354922,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/666255/666255a_hb_a_001.jpg",
+    "price": 1980,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0E631BEB-8E70-405A-9822-746E161741FD",
+    "name": "Centre Point Pratunam",
+    "score": 5.712819551619759,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080651/080651a_hb_t_001.jpg",
+    "price": 3574.27,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "03D9D956-7DFF-411D-B543-196BD4CE12DB",
+    "name": "The Mulberry Bangkok Hotel Khaosan Road",
+    "score": 3.3264329192352307,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/253002/253002a_hb_a_037.jpg",
+    "price": 71059.43,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "93E1865E-73F4-40D0-985F-8BA84B5C3816",
+    "name": "Best Bangkok House",
+    "score": 1.5856013221573448,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081413/081413a_hb_a_005.jpg",
+    "price": 2356.09,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4F5FB2F5-5700-4B6F-A2E9-6AB6F2B73336",
+    "name": "The Blue Place Hotel DMK by ZUZU",
+    "score": 8.375225941567805,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/78/788150/788150a_hb_a_001.JPG",
+    "price": 1565.47,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "72D0F67C-B356-4A4D-A8A2-19F687CB4C3A",
+    "name": "Tuk Tuk Hostel by ZUZU",
+    "score": 2.7258412704968578,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/631571/631571a_hb_a_001.JPG",
+    "price": 1339.58,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DAD45643-7B8D-4810-92BB-AB1CB2082528",
+    "name": "Convenient Park Bangkok Sukhumvit",
+    "score": 5.078590391357011,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/097875/097875a_hb_a_001.jpg",
+    "price": 1266.14,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9EDA79A4-E746-4FCA-8B0A-247217DE5E29",
+    "name": "Maitria Mode Sukhumvit 15 Bangkok",
+    "score": 4.394489243010867,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/35/357764/357764a_hb_a_014.jpg",
+    "price": 2864.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D6D4EF38-033D-4D51-99AF-CE17C9D362DE",
+    "name": "Stay Hotel BKK",
+    "score": 5.250247880198458,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/61/614502/614502a_hb_a_004.jpg",
+    "price": 3497.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D6C6B359-2ABE-4F24-A2DC-00BD3BE7DBAD",
+    "name": "Silom Serene Boutique",
+    "score": 3.1179997141543936,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080410/080410a_hb_a_004.jpeg",
+    "price": 4669.17,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "76CF439A-340D-4CAB-8641-906391EDB608",
+    "name": "J Two S Pratunam Hotel [SHA-certified]",
+    "score": 6.980632594621511,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/35/358025/358025a_hb_a_021.jpg",
+    "price": 1167.29,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DF3EFC9A-ED21-4D4E-9248-1E8301790716",
+    "name": "SPENZA HOTEL",
+    "score": 1.4707701235647619,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/558522/558522a_hb_a_001.jpg",
+    "price": 2574,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "5E7C6356-B6F8-4067-A216-0A9223CFF98C",
+    "name": "Mariya Boutique Residence",
+    "score": 3.54049437613412,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/125672/125672a_hb_a_002.jpg",
+    "price": 1555.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1A1CC940-B329-4614-A9AE-9DEE9980B8C5",
+    "name": "MeStyle Place",
+    "score": 8.78769806264927,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/164128/164128a_hb_a_013.jpg",
+    "price": 1746.22,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "5BAC4D9E-725F-4102-A2A1-61F710256227",
+    "name": "Chillax Resort",
+    "score": 7.494785897415568,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/49/491021/491021a_hb_t_001.jpg",
+    "price": 2539.35,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A793C43A-58C1-4678-8318-0AE8ED462BD5",
+    "name": "The Color Living Hotel",
+    "score": 2.206015202233175,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/35/357888/357888a_hb_t_001.jpg",
+    "price": 2244,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "ED28352A-3E0F-4855-B2DF-9F3AD00F1836",
+    "name": "Dream Hotel Bangkok (SHA Extra Plus)",
+    "score": 7.953588314411718,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078967/078967a_hb_a_034.jpg",
+    "price": 3713.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E9A688CE-1C15-42CC-A4CC-72BDF96D433B",
+    "name": "Rama Gardens Hotel Bangkok",
+    "score": 0.5094905534992904,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/060714/060714a_hb_t_001.JPG",
+    "price": 2322.22,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "955A5D44-5662-4D81-8989-C3E6E1765E77",
+    "name": "Picnic Hotel Bangkok",
+    "score": 9.522571354625597,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/42/425938/425938a_hb_a_004.jpg",
+    "price": 4702.7,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8B47625B-5A24-4E08-828D-E8E931846E4B",
+    "name": "Spb Paradise Hotel",
+    "score": 1.6750901917557712,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/648895/648895a_hb_a_008.jpg",
+    "price": 1362.7,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "1D7240A1-2D90-4B16-93E7-58BC8E91E2C7",
+    "name": "The Riche Boutique Hotel (SHA PLUS+)",
+    "score": 3.7061428782199073,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/638180/638180a_hb_a_002.jpg",
+    "price": 3536.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CEBED5CE-D7CF-45AF-AF8D-C852EE88D507",
+    "name": "Banyan Tree Bangkok",
+    "score": 6.883274734036604,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025397/025397a_hb_a_021.jpg",
+    "price": 23951.95,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E82218A5-5350-405A-AE3F-823E73DACC6F",
+    "name": "Miracle Grand Convention Hotel",
+    "score": 2.2875335632179485,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/026764/026764a_hb_t_001.JPG",
+    "price": 4184.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "06C1627B-20E6-4E9F-B726-C28F296AF3DD",
+    "name": "Prince Palace",
+    "score": 0.8151028913121081,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025751/025751a_hb_a_021.jpg",
+    "price": 1936.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "471D4C10-C43A-44AB-A667-D912AA93155F",
+    "name": "Aranta Airport Hotel Bangkok",
+    "score": 0.698964397961845,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/20/200389/200389a_hb_t_001.jpg",
+    "price": 2200.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "98FF1A39-CEC6-4614-BB4D-229B35AD04C9",
+    "name": "Miloft Sathorn Hotel",
+    "score": 6.734282826469098,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/27/273304/273304a_hb_a_001.jpg",
+    "price": 2416.02,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AFA92AC0-ACB3-4873-8A57-6ADE86F80321",
+    "name": "Nouvo City Hotel",
+    "score": 2.3978963939125606,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/146456/146456a_hb_a_006.jpg",
+    "price": 2805.08,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B56AAAA4-A3D9-4EF3-A79A-1EC07A6A1275",
+    "name": "Marsi Hotel",
+    "score": 8.697953263085083,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/35/358050/358050a_hb_a_025.jpg",
+    "price": 1833.33,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EF6C78CC-C336-4D6E-AEDD-2F4396269A9D",
+    "name": "Klub Hotel Bangkok",
+    "score": 1.5633096194374048,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/641747/641747a_hb_a_001.jpg",
+    "price": 3103.65,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "5BC31FDA-2ABF-491D-9310-B5CB436323CF",
+    "name": "Montri Resort Donmuang Bangkok",
+    "score": 7.5744155393911115,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/665920/665920a_hb_a_001.jpg",
+    "price": 3740,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A7A8598D-5762-4965-82F7-3FEB89057C28",
+    "name": "The Secret Service Hotel",
+    "score": 3.7253536654413892,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/674460/674460a_hb_a_001.jpg",
+    "price": 1210,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "68F66BA5-D90D-4989-A19D-1A395C342BE2",
+    "name": "Asia Airport",
+    "score": 6.023092575310329,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025396/025396a_hb_a_001.jpg",
+    "price": 2187.9,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A9A172FC-C211-4840-A36F-A42EAEB8E77A",
+    "name": "Eastin Grand Hotel Sathorn Bangkok",
+    "score": 4.701274012867543,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/157044/157044a_hb_a_001.jpg",
+    "price": 5892.87,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "44F624E5-024B-47C4-9DDA-0CC2BA27AB1F",
+    "name": "@115 By Rompo",
+    "score": 1.8232028535039717,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/633144/633144a_hb_a_001.jpg",
+    "price": 1785.91,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A29E999E-BCD1-4125-A649-880BD54E2AEE",
+    "name": "Travelodge Sukhumvit 11",
+    "score": 8.996989415360304,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/60/607821/607821a_hb_a_003.jpg",
+    "price": 2420.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "44CC3CBC-F564-4FE6-8AEB-D315124ED6FA",
+    "name": "The Landmark Bangkok",
+    "score": 4.9624751479097995,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/026765/026765a_hb_t_001.jpg",
+    "price": 13429.53,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "708BB595-0C01-479C-953A-43E58F884A80",
+    "name": "Golden Foyer Suvarnabhumi Airport Hotel",
+    "score": 4.7649844221039075,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/62/624505/624505a_hb_a_004.jpeg",
+    "price": 1334.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "16C9DA89-F90F-48C5-B789-F37ECA0B3627",
+    "name": "Grand Pinnacle Suvarnabhumi",
+    "score": 3.3890708075639395,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/088802/088802a_hb_a_001.jpg",
+    "price": 979.68,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F61D947B-FF62-467F-B8A3-DE9D0FE41B32",
+    "name": "Royal Suite Hotel Bangkok",
+    "score": 6.38336305931773,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081631/081631a_hb_a_001.jpg",
+    "price": 2923.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0676F473-70E7-4F0A-A24B-BD94924E6749",
+    "name": "Hotel Royal Bangkok China Town",
+    "score": 0.8014828800132818,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232839/232839a_hb_t_001.JPG",
+    "price": 3092.36,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "71DDD83F-A532-41AD-9472-C45879BA7AAC",
+    "name": "The Siam Heritage Hotel",
+    "score": 2.144661900111032,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080306/080306a_hb_a_001.jpg",
+    "price": 2292.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "307B3C84-0470-40CD-8E07-C338C29DD82D",
+    "name": "Shangri La Hotel Bangkok",
+    "score": 6.898332692458524,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025565/025565a_hb_t_001.jpg",
+    "price": 12290.12,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4261F37E-3917-4389-878E-E9067667F1E8",
+    "name": "Skyview Hotel Bangkok",
+    "score": 8.920272633550425,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/44/447301/447301a_hb_a_002.jpg",
+    "price": 18191.22,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EBF0039F-E065-41C0-BC7C-C519CB6F4260",
+    "name": "The Standard, Bangkok Mahanakhon",
+    "score": 5.941884301428737,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/89/893957/893957a_hb_a_001.jpg",
+    "price": 12759.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9F80980B-62FF-446F-9332-673B865A2964",
+    "name": "Pratunam Family House by ZUZU",
+    "score": 4.484272865333057,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/89/893713/893713a_hb_a_001.jpg",
+    "price": 8018.86,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "165E614C-F388-403C-9E4C-E86727A318D4",
+    "name": "OYO 854 Baan Phuchalong",
+    "score": 5.8607075963082025,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/74/742282/742282a_hb_a_001.JPG",
+    "price": 907.67,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C4F0F95B-EB49-4819-B6D7-8622CF686229",
+    "name": "Coco Retreat Phuket Resort and Spa",
+    "score": 4.132907597886515,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/64/642122/642122a_hb_a_001.jpg",
+    "price": 2118.52,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AFD24956-F336-4184-BAD2-21A8F0890E7B",
+    "name": "Ramada Plaza by Wyndham Chao Fah",
+    "score": 6.500624552470981,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/652310/652310a_hb_a_001.jpg",
+    "price": 12968.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "111FC1C4-014D-4721-A157-512512E68E73",
+    "name": "Aochalong Villa & Spa",
+    "score": 8.987642111351306,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138085/138085a_hb_a_003.jpg",
+    "price": 1840.69,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "CA5F7429-23F6-47A5-A2D2-4386E3CE2D8A",
+    "name": "Villa Zolitude Resort & Spa",
+    "score": 7.266186363682209,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/088338/088338a_hb_a_003.jpg",
+    "price": 8514.36,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "90F6571B-222E-4CD4-BDBF-070A38E43AA8",
+    "name": "Hotel IKON Phuket",
+    "score": 9.544014694503858,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/54/542543/542543a_hb_a_002.jpg",
+    "price": 2408.03,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4E56757A-0B5D-4721-A041-517FB652B048",
+    "name": "Orchidacea Residence",
+    "score": 0.6647764418557927,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/72/722981/722981a_hb_a_001.jpg",
+    "price": 2145,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FFD7DC17-4D5D-4DA7-995B-B63EC5AADC62",
+    "name": "Aqua Resort Phuket",
+    "score": 5.501763805419614,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/62/629821/629821a_hb_a_005.jpg",
+    "price": 2079,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "439B2030-BA76-4483-BA9B-0ACC236F8CE8",
+    "name": "The Beachfront Hotel Phuket",
+    "score": 6.045463842641766,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/635506/635506a_hb_a_002.jpg",
+    "price": 4364.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4F65C452-B488-469F-9A7F-126D5B83C521",
+    "name": "The Mangrove Panwa Phuket Resort",
+    "score": 5.62405656485862,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/179629/179629a_hb_a_024.jpg",
+    "price": 2007.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "218C271E-E2AD-4D4A-B088-4D067FD990E6",
+    "name": "Gotum Hostel and Restaurant 2",
+    "score": 3.750189406448044,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/255024/255024a_hb_a_046.jpg",
+    "price": 1280.4,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A7037E81-8CA5-465B-8D98-7729E7777D82",
+    "name": "Two Villas Holiday Onyx Style Nai Harn Beach",
+    "score": 0.22645314561668783,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/183527/183527a_hb_t_002.jpg",
+    "price": 3214.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4B9A8322-700E-4933-B5A4-69EAC2EF5185",
+    "name": "The SIS Kata Resort",
+    "score": 1.3392562083536177,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/59/594486/594486a_hb_a_006.jpg",
+    "price": 4092.01,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "96D1CCA2-90C4-46BA-8E24-62DA2CD3594C",
+    "name": "Mom Tri's Villa  Royale",
+    "score": 7.492814987374004,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/084472/084472a_hb_a_012.jpg",
+    "price": 18830.9,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E3EA81C7-FE2B-4424-9A30-A3177BD84D2C",
+    "name": "Rak Elegant Hotel Patong",
+    "score": 5.0999320246810385,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/671017/671017a_hb_a_001.jpg",
+    "price": 13209.26,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "59F8AD2D-90D1-4A07-87F3-30537403C0E8",
+    "name": "Sugar Marina Resort-NAUTICAL-Kata Beach",
+    "score": 9.175976252408873,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/188310/188310a_hb_a_001.jpg",
+    "price": 1800,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9EB37DFE-DC56-414A-8944-B12600FAC0D3",
+    "name": "Orchidacea Resort",
+    "score": 2.557501231560309,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033581/033581a_hb_t_001.jpg",
+    "price": 2216.12,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "101C4E11-8AC7-431D-8297-18C194524CE6",
+    "name": "99 Residence Patong",
+    "score": 7.917149879860517,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/235165/235165a_hb_a_027.jpg",
+    "price": 55385,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "50FBD7E6-137E-4A55-BC9C-2EF9F7CCE75B",
+    "name": "Katanoi Resort",
+    "score": 9.763485997238604,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/669466/669466a_hb_a_001.jpg",
+    "price": 1922.6,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9FEFD7CA-2AE7-43D7-98B1-6478ABAB31C8",
+    "name": "Peach Blossom Resort (SHA Plus+)",
+    "score": 4.101898747721862,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/084025/084025a_hb_t_001.jpg",
+    "price": 2471.91,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C4DF343C-DC87-4248-8F53-1D8C5BE0DBA0",
+    "name": "Secret Cliff Villa",
+    "score": 5.5572070470916515,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/173818/173818a_hb_t_001.jpg",
+    "price": 2494.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "83F5163B-BE4D-494A-8124-62C7689D2658",
+    "name": "Centara Villas Phuket (SHA+)",
+    "score": 3.2231938164986786,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025736/025736a_hb_t_001.jpg",
+    "price": 4389.86,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C58B7158-5350-40AA-A241-B3DC915CBFD7",
+    "name": "iCheck inn Residences Patong",
+    "score": 9.82908187173598,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/57/578288/578288a_hb_a_014.jpg",
+    "price": 2475.64,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D11E21CE-DECB-4CD7-BAB6-1357928E8F5B",
+    "name": "Novotel Phuket City Phokeethra",
+    "score": 5.4407619999255985,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/47/479964/479964a_hb_a_001.jpg",
+    "price": 4205.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "27EE46A2-11E7-416B-95C2-32E5627EB307",
+    "name": "Peach Hill Resort (SHA Plus+)",
+    "score": 9.83443283260931,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079003/079003a_hb_t_001.jpg",
+    "price": 1893.76,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8906074D-9FF2-4FD1-9385-D4454A5F6604",
+    "name": "Andaman Cannacia Resort & Spa (SHA Plus+)",
+    "score": 1.8628564042592188,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078958/078958a_hb_t_001.jpg",
+    "price": 2820.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "41C7BD28-60D5-43C3-A515-2BA84365CE7E",
+    "name": "7Q Bangla Hotel",
+    "score": 2.467819024270284,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/634105/634105a_hb_a_001.jpg",
+    "price": 1090.05,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "83F83067-AA75-473F-9E1D-738A41994DEE",
+    "name": "Sino House Phuket",
+    "score": 1.1271082353268866,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138099/138099a_hb_t_002.jpg",
+    "price": 1579.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C82415AF-927E-4693-AC38-D4968C85931E",
+    "name": "Casa Blanca Boutique Hotel Phuket",
+    "score": 9.42972311392441,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/236779/236779a_hb_a_081.jpg",
+    "price": 3942.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "5F18C71C-AC01-4BD9-BA34-68A3F217D9AE",
+    "name": "The Royal Bay View Villas",
+    "score": 5.940183908620384,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/659443/659443a_hb_a_001.jpg",
+    "price": 6600,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "75F4F788-A3E4-4C07-9478-5D08A4B2C593",
+    "name": "The Vijitt Resort Phuket (SHA Plus+)",
+    "score": 8.88183588193715,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/102154/102154a_hb_a_035.jpg",
+    "price": 14851.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D51AB2F0-E3CD-429E-B051-9315345D77DC",
+    "name": "Lemonade Phuket Hotel ",
+    "score": 3.2988461285931407,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/630026/630026a_hb_a_003.jpg",
+    "price": 1705.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4FD86D43-C1E8-4427-847D-C214B6F7CA74",
+    "name": "APK Resort And Spa",
+    "score": 8.327502465021098,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/133021/133021a_hb_a_001.jpg",
+    "price": 2473.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D164F116-FC19-4533-96C1-55958FACAE22",
+    "name": "Utopia Naiharn",
+    "score": 4.0155330900634,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/669915/669915a_hb_a_003.jpg",
+    "price": 4833.96,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "69AA3B9B-5C00-4508-B752-A91E3637F435",
+    "name": "Bandara Phuket Beach Resort",
+    "score": 2.3382366628793534,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/53/533181/533181a_hb_a_001.jpg",
+    "price": 3602.35,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "897F51C3-E4C7-496C-B9F6-DB5DEE08EF95",
+    "name": "Blu Monkey Bed & Breakfast Phuket",
+    "score": 3.4943663198137074,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/35/358146/358146a_hb_a_001.jpg",
+    "price": 67100,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A7F94347-453B-40FC-966F-864E52A2573E",
+    "name": "The Gig Hotel",
+    "score": 6.331022708032833,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/53/539941/539941a_hb_t_001.jpg",
+    "price": 3174.17,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8E92FC83-23C2-44F7-8836-51AAABC34909",
+    "name": "Best Western Patong Beach",
+    "score": 7.230590248826047,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/37/373939/373939a_hb_a_046.jpg",
+    "price": 3230.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E9D86277-82AB-4511-AF21-5ACB04CBBEA4",
+    "name": "Sunsuri Phuket",
+    "score": 1.2942456742166542,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/19/196689/196689a_hb_a_009.jpg",
+    "price": 5544,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C4A6D184-D5AF-46F5-B1B1-B92DA357F3D3",
+    "name": "Aspira Prime Patong",
+    "score": 9.439727725995908,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/230535/230535a_hb_a_004.jpg",
+    "price": 2465.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "7BD42FF7-49BC-46D4-AE72-DB128684F951",
+    "name": "Tinidee Golf Resort @ Phuket",
+    "score": 9.405460607536952,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156790/156790a_hb_a_009.jpg",
+    "price": 2528.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "89511D3C-3337-4B8C-AA46-FD0A1D8DFAB2",
+    "name": "Meir Jarr Hotel",
+    "score": 7.089591536761873,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/22/229816/229816a_hb_t_001.jpg",
+    "price": 1788.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7DBFD16D-7992-4000-8149-6CFC9CCDCE53",
+    "name": "Katathani Phuket Beach Resort (SHA Plus+)",
+    "score": 9.521787915171444,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/027820/027820a_hb_a_004.jpg",
+    "price": 9401.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "49E743BF-D3C4-414F-A99D-66078B5710E1",
+    "name": "Impiana Private Villas Kata Noi, Phuket",
+    "score": 7.221305446964834,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/126367/126367a_hb_a_006.jpg",
+    "price": 18223.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "BD11B857-3C78-4315-A50E-EE97217DD957",
+    "name": "The Andaman Beach Hotel Phuket Patong",
+    "score": 5.308596163060429,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/47/470475/470475a_hb_t_001.jpg",
+    "price": 6246.91,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6710DFE7-B8A8-41F3-B3CC-C5D202AA71BB",
+    "name": "Rawai VIP Villas, Kids Park & Spa",
+    "score": 6.398574316932354,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/632110/632110a_hb_a_004.jpg",
+    "price": 13643.19,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B6614B89-428D-4A99-BD5C-56E2D91DDE0F",
+    "name": "OYO 792 Omsaga Phuket Hotel",
+    "score": 9.953380805065535,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/74/742236/742236a_hb_a_001.jpg",
+    "price": 779.14,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A652EB7A-E704-48FF-99AC-FF2BF4C6E080",
+    "name": "Kalim Resort",
+    "score": 8.119659007224982,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/30/304277/304277a_hb_a_001.jpg",
+    "price": 1354.32,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B5E67951-2277-4590-B72E-0FCBF78664F9",
+    "name": "Amatara Wellness Resort (SHA Plus+)",
+    "score": 5.334535409841919,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/174556/174556a_hb_t_001.jpg",
+    "price": 13471.91,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1C6B947D-8A58-4F03-B999-592EE786B5F9",
+    "name": "Rawai Palm Beach Resort (SHA Plus+)",
+    "score": 5.87525114096934,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/144129/144129a_hb_a_001.jpg",
+    "price": 2305.31,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8486F239-AFB1-4C8A-A11E-338EE0FBD998",
+    "name": "Isara Boutique Hotel and Cafe by ZUZU",
+    "score": 4.8701613952434855,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/81/813047/813047a_hb_a_002.jpg",
+    "price": 1587.96,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "55887526-05B7-4D72-B288-9F46813458A1",
+    "name": "Thavorn Palm Beach Resort (SHA Plus+)",
+    "score": 2.5182316230529977,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079132/079132a_hb_a_088.jpg",
+    "price": 3486.64,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "338158D4-6500-43E6-BC90-1B4CF167BC1E",
+    "name": "CAPITAL O806 Sira Grande Hotel And Spa",
+    "score": 0.3409285148700292,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/74/742096/742096a_hb_t_001.jpg",
+    "price": 994.51,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "157D3C68-0FE5-49C6-AB35-0E5DCC1C13FF",
+    "name": "Carpio Hotel Phuket by ZUZU",
+    "score": 5.965807746839346,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/81/811738/811738a_hb_a_001.jpg",
+    "price": 1385.99,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E15822C5-A84F-49B2-ACAE-5451D1FDA7A5",
+    "name": "SKYVIEW Resort Phuket Patong Beach",
+    "score": 0.9516515712221008,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/71/716301/716301a_hb_a_001.JPG",
+    "price": 2528.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A1382B49-43BB-4EF6-BA6A-6DC08E0DF640",
+    "name": "Hao Hostel",
+    "score": 7.948350293772819,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/69/696498/696498a_hb_a_001.jpg",
+    "price": 2151.16,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D95B823C-8671-4115-81B5-105056623EEC",
+    "name": "Peace Blue Naiharn Naturist Resort SHA+ by ZUZU",
+    "score": 0.6725320415262104,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/81/813055/813055a_hb_a_001.jpg",
+    "price": 9273,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FD906489-BF18-4836-97F6-70C65C3D8C8F",
+    "name": "99 Voyage Patong",
+    "score": 8.362882597282805,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/30/303090/303090a_hb_a_035.jpg",
+    "price": 2406.25,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8BF52C16-990B-4A09-8E99-8D92C22EB56B",
+    "name": "Baan Karon Resort",
+    "score": 6.6487213786713255,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078942/078942a_hb_a_001.jpg",
+    "price": 3358.18,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DFFF5FAE-1C39-4329-83EB-E351E4C4F15B",
+    "name": "Patong Lodge Hotel",
+    "score": 2.606076124959145,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/027818/027818a_hb_t_001.jpg",
+    "price": 3630,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C0E46416-A181-4053-93CE-63395CCADDA6",
+    "name": "The Nai Harn",
+    "score": 2.649158767388144,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/42/423500/423500a_hb_t_002.jpg",
+    "price": 12630.31,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "787FD594-CD87-4312-B48C-0E2116F7356A",
+    "name": "Days Inn by Wyndham Patong Beach Phuket",
+    "score": 7.314503428868193,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156017/156017a_hb_a_001.jpg",
+    "price": 2079,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F9FBB67B-AF52-4309-8B50-0B712E4BE800",
+    "name": "Patong Merlin Hotel",
+    "score": 1.240904667542054,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078972/078972a_hb_a_014.jpg",
+    "price": 4091.18,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "366715F9-CB46-4DBB-9FBE-F2CAF989F467",
+    "name": "Centara Grand Beach Resort Phuket (SHA+)",
+    "score": 1.6096936212761648,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/136516/136516a_hb_t_002.jpg",
+    "price": 18273.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A0E6EFD5-F8C7-4015-B2DB-F0CF6955F694",
+    "name": "Centara Karon Resort Phuket (SHA+)",
+    "score": 2.546569708871175,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072625/072625a_hb_t_001.jpg",
+    "price": 4066.06,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EC596E30-3FCB-404C-ADCE-0FF9877F9F25",
+    "name": "Tiras Patong Beach Hotel",
+    "score": 8.504053569069583,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/661064/661064a_hb_a_004.jpg",
+    "price": 2405.7,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0DCCBB97-9A86-43F8-9B3A-CAA197D5347B",
+    "name": "Paradox Resort Phuket",
+    "score": 3.7188880581707053,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/073294/073294a_hb_t_001.jpg",
+    "price": 4934,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "88078D87-F5B9-44FE-B829-96CB05166428",
+    "name": "Sri Panwa Phuket Luxury Pool Villa Hotel",
+    "score": 4.247544263509553,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079216/079216a_hb_t_003.jpg",
+    "price": 137123.71,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8EDCE7B6-8095-4993-A614-03A42885A3D9",
+    "name": "The Naka Phuket Villa",
+    "score": 4.899941446468802,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/30/302577/302577a_hb_a_010.jpg",
+    "price": 16735.21,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "897127DC-4B2C-409C-8B70-F6F12F7556D2",
+    "name": "The Oceanic Sportel (SHA Extra Plus)",
+    "score": 7.5551685667960555,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/87/879501/879501a_hb_a_001.jpg",
+    "price": 3955.17,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EC7D108C-0A64-4932-846A-16B64DF1C38B",
+    "name": "Chabana Kamala Hotel",
+    "score": 3.8545549239406682,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/48/480801/480801a_hb_a_014.jpeg",
+    "price": 1475.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "35DA3F9D-F8B4-45B2-A006-A2EEE70665AD",
+    "name": "Novotel Phuket Kamala Beach",
+    "score": 2.694260590831618,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/19/190068/190068a_hb_a_064.jpg",
+    "price": 3310.01,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "70E1FC4F-C3FF-4309-BF56-7A51EEB14EBF",
+    "name": "The Pe La Resort Phuket",
+    "score": 3.83817198840552,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/633458/633458a_hb_a_001.jpg",
+    "price": 6017.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "20ED6B37-0AF1-4919-8053-795335896571",
+    "name": "OYO 75342 Ban Elephant Blanc Bungalow",
+    "score": 0.279235735475595,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/87/877866/877866a_hb_a_001.jpg",
+    "price": 1440.7,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0DDB6A95-E230-477C-811C-F431D56602DA",
+    "name": "Jiraporn Hill Resort Patong",
+    "score": 2.3492277574714535,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/125554/125554a_hb_a_003.jpg",
+    "price": 1427.83,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9B7CB1DC-CCA1-4E96-A93B-0D82A8AD875E",
+    "name": "Cello Hotel Phuket",
+    "score": 5.890009928440122,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156942/156942a_hb_a_003.jpg",
+    "price": 3179,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DAE724D0-7FD9-4D25-98DD-96CF520250CC",
+    "name": "Navatara Phuket Resort",
+    "score": 5.023077046702383,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/53/533381/533381a_hb_t_002.jpg",
+    "price": 3285.54,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "7ADE776A-63F7-4FD0-8144-99E5608C37E3",
+    "name": "R-Mar Resort And Spa",
+    "score": 6.772823408706245,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/137619/137619a_hb_a_014.jpg",
+    "price": 1960.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0EB704AD-80FD-4054-842A-AE26BD00161F",
+    "name": "Woovo Phuket Patong",
+    "score": 3.374288234876076,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/656508/656508a_hb_a_004.jpg",
+    "price": 13464,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DBFAD217-EAA4-41AE-AC4C-FBA92F6386C5",
+    "name": "Paresa Resort",
+    "score": 2.466591470016283,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/108956/108956a_hb_a_012.jpg",
+    "price": 19198.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F1C25401-F9C7-42AB-ADE4-889B6DC4EB38",
+    "name": "Club Bamboo Boutique Resort & Spa",
+    "score": 0.40134352544009744,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078887/078887a_hb_a_015.jpg",
+    "price": 1342.54,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D73716EA-44E8-4764-9065-91E170A98F0B",
+    "name": "Andaman Seaside Resort Phuket (SHA Extra+)",
+    "score": 8.634742878126417,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/157046/157046a_hb_a_007.jpg",
+    "price": 1321.27,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "03F2F4C3-9403-4FBC-92E4-F76C0332E3DE",
+    "name": "Metadee Elite Kata Beach",
+    "score": 0.5234490240836749,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/71/713289/713289a_hb_a_001.JPG",
+    "price": 3415.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "3CED959A-5300-453B-8167-8B7B05F621AF",
+    "name": "Blu Monkey Hub and Hotel Phuket",
+    "score": 7.848553879372048,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/47/470476/470476a_hb_a_001.jpg",
+    "price": 1336.2,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "692D6687-8D35-461B-A0D1-0A61C25B20F6",
+    "name": "Diamond Resort Phuket",
+    "score": 6.665694693829209,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/636396/636396a_hb_a_001.jpg",
+    "price": 12859,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "446D8953-C458-4FEF-87D1-9A596270B68D",
+    "name": "The Bell Pool Villa Resort Phuket (SHA Plus+)",
+    "score": 9.727375293998193,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/103214/103214a_hb_t_007.jpg",
+    "price": 15242.54,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0689DC13-9A94-4006-835D-55D374AD3A50",
+    "name": "Wabi Sabi Boutique Hotel",
+    "score": 5.767790764708479,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/67/679504/679504a_hb_a_001.jpg",
+    "price": 1955.56,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "81B74956-AD5A-4D49-A0A9-CE3AE9509D72",
+    "name": "Oakwood Hotel Journeyhub Phuket",
+    "score": 0.05527747358610213,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/61/619332/619332a_hb_t_002.jpg",
+    "price": 2820.51,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "2F56DCD7-6A77-4856-8951-76ECAEF9C653",
+    "name": "Room Actually by ZUZU",
+    "score": 9.871895553080321,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/689983/689983a_hb_a_001.jpg",
+    "price": 1227.6,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8F85BAFC-1B4B-4A86-A7BF-F6F94D256DFE",
+    "name": "The Palmery Resort",
+    "score": 3.167828846424527,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232450/232450a_hb_a_001.jpg",
+    "price": 2335.03,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "426FE6AA-6241-4EA6-ADC9-E6784F6F177B",
+    "name": "Bangtao Village Resort (SHA)",
+    "score": 2.509883909329801,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078901/078901a_hb_t_005.jpg",
+    "price": 1615.58,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "97DB07D4-51BE-493A-86DC-38059DB0ABED",
+    "name": "Sunwing Bangtao Beach (SHA Plus+)",
+    "score": 9.635249069786369,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/091363/091363a_hb_a_001.JPG",
+    "price": 4821.38,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8D66EA1F-5B18-4322-9071-67A3E56CF366",
+    "name": "Wyndham Sea Pearl Resort Phuket",
+    "score": 3.952622245744351,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/140093/140093a_hb_a_001.jpg",
+    "price": 6312.35,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6ABB7C0C-91B8-4776-AA4E-EC400A800E43",
+    "name": "The Lantern Resorts Patong (SHA Plus+)",
+    "score": 5.427882807389324,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/151730/151730a_hb_t_001.jpg",
+    "price": 2986.05,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "64C6A8E1-C619-4854-8D34-CCD2C8019B08",
+    "name": "Novotel Phuket Surin Beach Resort",
+    "score": 6.293927847522355,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/179588/179588a_hb_t_001.jpg",
+    "price": 3213.48,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EBF95B15-0CF8-45BB-BF89-C883AC167CDB",
+    "name": "Chabana Resort",
+    "score": 2.9659455496930605,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/54/543783/543783a_hb_t_001.jpg",
+    "price": 1312.05,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C79AF01F-E126-441A-A356-DB120D0FD90C",
+    "name": "Welcome Inn Karon",
+    "score": 8.021581701177638,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232997/232997a_hb_a_018.jpg",
+    "price": 1233.19,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "258E1FCE-0532-42D3-970D-3FB659ABECDA",
+    "name": "Patong Signature Boutique Hotel",
+    "score": 4.175959288588274,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/60/605322/605322a_hb_a_001.jpg",
+    "price": 5869.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "C21026FC-4537-4CB5-833A-E17A519A7624",
+    "name": "Boat Lagoon Resort",
+    "score": 4.952008641766952,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078950/078950a_hb_a_001.jpg",
+    "price": 14143.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B9F00972-CC5F-4269-B865-9742E3B8D800",
+    "name": "Bauman Residence",
+    "score": 2.791480485111606,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232376/232376a_hb_t_001.jpg",
+    "price": 1855.41,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "7611EEB2-03B6-4574-8262-AA2B76929C50",
+    "name": "Kamala Beach Residence by ZUZU",
+    "score": 5.83218974375086,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/69/692262/692262a_hb_a_001.jpg",
+    "price": 2348.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B8C03C37-20B6-491A-A2DE-E107025AC9B4",
+    "name": "Ramaburin Resort",
+    "score": 2.063116860728769,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/630591/630591a_hb_t_001.jpg",
+    "price": 1853.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "43FB6AA6-C77D-4E6D-BB42-C44A9E0139C7",
+    "name": "Ashlee HUB Hotel",
+    "score": 6.262020202964777,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/143876/143876a_hb_t_001.jpg",
+    "price": 1391.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DF471F56-1C07-4A26-AA1F-276E584CC2C5",
+    "name": "Two Villas Holiday Oxygen Style Bangtao Beach",
+    "score": 7.516987309889373,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/129682/129682a_hb_a_903.jpg",
+    "price": 3288.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8772B05C-F4DA-4778-8312-711EB8B9064E",
+    "name": "Tropica Bungalow Hotel",
+    "score": 6.024016923502131,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156236/156236a_hb_t_014.jpg",
+    "price": 6941.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "03489BEB-9932-46BA-B48A-6703A4D40D31",
+    "name": "Ramada by Wyndham Phuket Southsea",
+    "score": 2.4742501019809424,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080772/080772a_hb_a_001.jpg",
+    "price": 2597.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8CF4FD93-2BCA-4CF1-8F5E-EAF3C6698CE7",
+    "name": "Pumeria Resort Phuket",
+    "score": 7.15203362027205,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/58/587725/587725a_hb_a_007.jpg",
+    "price": 7347.07,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "CE0BA5F5-69E5-4A99-A2BC-D753359F71BF",
+    "name": "Mai Morn Resort",
+    "score": 8.012552233843962,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/236122/236122a_hb_a_021.jpg",
+    "price": 1360.26,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E137839D-C653-495C-A929-2B2D02C80B58",
+    "name": "Phunawa Resort (SHA Extra+)",
+    "score": 4.949133303542112,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/153977/153977a_hb_t_001.jpg",
+    "price": 20404.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "93AE1761-24F8-4647-A79E-5AFC48402163",
+    "name": "Andamantra Resort and Villa Phuket",
+    "score": 1.901365441708549,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/061893/061893a_hb_a_003.jpg",
+    "price": 3049.2,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1499072B-44CE-4660-8B27-82A503A02927",
+    "name": "The Surin Phuket",
+    "score": 1.6010844461361557,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/061894/061894a_hb_a_007.jpg",
+    "price": 15327.46,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3AF2F6B5-B17C-4CE2-BD5A-46F8E3F33966",
+    "name": "Lamai Apartment",
+    "score": 7.778775336033505,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156359/156359a_hb_t_007.jpg",
+    "price": 1100,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "6D5EF091-DB20-4AF8-9517-A8FC787018F5",
+    "name": "The Royal Paradise Hotel & Spa (SHA Plus+)",
+    "score": 7.838710344139145,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025564/025564a_hb_a_011.jpg",
+    "price": 2597.22,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0E2A8F99-A7A1-4D09-81C4-A5443DA848F6",
+    "name": "Aurico Kata Resort & Spa",
+    "score": 8.907060582369922,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/652593/652593a_hb_t_002.jpg",
+    "price": 3104.96,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "91187C5B-1FF3-4B1B-8BC4-0B991AC75A8B",
+    "name": "Swissôtel Suites Phuket Kamala Beach",
+    "score": 1.555705738083816,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/098818/098818a_hb_a_013.jpg",
+    "price": 2275.86,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8BC0B2C2-B5E6-4216-A371-F04E8D7895A6",
+    "name": "Lub d Phuket Patong",
+    "score": 3.6632241446404805,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/50/505861/505861a_hb_t_001.jpg",
+    "price": 489.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FDCBE109-D4D0-4785-8F55-67E8CA8A954B",
+    "name": "Deevana Plaza Phuket",
+    "score": 7.865468243875512,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/082295/082295a_hb_t_001.jpg",
+    "price": 4685.09,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F11968E8-0BBA-4D4E-BE61-19B6E1C8D47C",
+    "name": "Sunset Beach Resort",
+    "score": 0.6626109309736421,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079140/079140a_hb_a_011.jpg",
+    "price": 2472.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A2F7E3C1-42F3-463F-ABD4-BE5235197E7B",
+    "name": "Oceanfront Beach Resort and Spa",
+    "score": 2.029279039393259,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/70/707278/707278a_hb_a_003.jpg",
+    "price": 4219.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CC93D23B-35B9-48F0-974F-F685AEAAB5D4",
+    "name": "The Par Phuket Hotel",
+    "score": 9.525440897239605,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/235389/235389a_hb_a_102.jpg",
+    "price": 55880,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8FE07002-EBFF-4943-87DA-BCF008C2DD40",
+    "name": "The Beach Boutique House (SHA Extra+)",
+    "score": 5.120744823542736,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/101815/101815a_hb_a_010.jpg",
+    "price": 2871,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "37BCC35F-D8DB-4458-9754-A0E02E83B3D3",
+    "name": "The Pavilions Phuket (SHA Plus+)",
+    "score": 3.3228758897175794,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079233/079233a_hb_t_006.jpg",
+    "price": 16314.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B64E31FF-8060-48E8-84C5-86482FCB576B",
+    "name": "Orchid Kathu Heights",
+    "score": 4.374883208955907,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/103489/103489a_hb_a_002.jpg",
+    "price": 1334.61,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9649A932-28E7-43A4-9EAC-B6344A8A547B",
+    "name": "Metadee Resort & Villas",
+    "score": 5.66692232522837,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/122188/122188a_hb_a_016.jpg",
+    "price": 29700,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "8ABAAD5C-4F3E-4963-8912-16D997BE46E6",
+    "name": "The Ashlee Heights Patong (SHA Extra Plus)",
+    "score": 4.665441542671033,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/16/160739/160739a_hb_a_001.jpg",
+    "price": 1492.92,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3F5EF832-BC37-487C-B66D-FA9BFDA2FFDE",
+    "name": "Waterfront Suites Phuket by Centara",
+    "score": 3.781058442901667,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/084065/084065a_hb_a_002.jpg",
+    "price": 4777.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "EB97659C-D774-43AB-9BC7-1642146ECB4F",
+    "name": "The Rubber Hotel",
+    "score": 0.6405042601045352,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/557537/557537a_hb_a_020.jpg",
+    "price": 1344.03,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4D3E9FF5-0DD6-459E-A09F-694CEC444594",
+    "name": "Sawaddi Patong Resort & Spa by Tolani",
+    "score": 2.323026146023949,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/134211/134211a_hb_a_032.JPG",
+    "price": 1764.18,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "633418D0-4BB6-47C9-9928-C1B64A446476",
+    "name": "Woraburi Phuket Resort & Spa (SHA Plus+)",
+    "score": 3.0517605235190786,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033756/033756a_hb_t_001.jpg",
+    "price": 2719.77,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "17DD78F2-9BA1-44B5-9FB4-31617FCBBAB8",
+    "name": "Orchid Hotel Kalim Bay Phuket",
+    "score": 7.439536604266323,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079127/079127a_hb_a_005.jpg",
+    "price": 2138.05,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D2D436EB-AFA4-452A-8D8F-89E0E9642DE3",
+    "name": "Boutique Resort Private Pool Villa",
+    "score": 3.9618123372492846,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668094/668094a_hb_a_001.jpg",
+    "price": 12359.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "02FB2067-482C-459D-A050-8047B22A231A",
+    "name": "Karon Princess Hotel",
+    "score": 9.423612116175718,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078854/078854a_hb_a_002.jpg",
+    "price": 1407.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "57385246-5D23-496B-A301-38AE83A04644",
+    "name": "Karon Sea Sands Resort (SHA Extra+)",
+    "score": 4.811901330283035,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/071543/071543a_hb_t_001.jpg",
+    "price": 2816,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DFDF1C92-F6C0-4C0E-8461-0673E4A5FF29",
+    "name": "Andaman Embrace Patong (SHA Plus)",
+    "score": 8.496217722507026,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156936/156936a_hb_a_002.jpg",
+    "price": 12536.7,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "71B906DC-59A1-4460-AA89-B14FBFA38CF6",
+    "name": "Marina Express-AVIATOR-Phuket Airport",
+    "score": 4.562751576599112,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/47/472661/472661a_hb_a_001.jpg",
+    "price": 1844.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "D322A4E8-8433-470B-8BF5-B5BBC0624F3C",
+    "name": "My Beach Resort",
+    "score": 0.980097459298122,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/57/578286/578286a_hb_t_001.jpg",
+    "price": 5586.61,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "19942AAB-F796-4581-90A0-D9BF573ABFB7",
+    "name": "Baumanburi",
+    "score": 7.847499394828446,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/052704/052704a_hb_a_004.jpg",
+    "price": 1716.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "395F85E8-03A2-4390-B1AB-3C085D3B27CC",
+    "name": "7Q Patong Beach Hotel",
+    "score": 0.4528470711002228,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156016/156016a_hb_a_001.jpg",
+    "price": 1208.79,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "90F54BFB-F580-4BA0-A8D3-1E86AC14241F",
+    "name": "Sawasdee Village (SHA+)",
+    "score": 8.579622957940956,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079141/079141a_hb_t_002.jpg",
+    "price": 5426.66,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "77580F9A-9A1B-478A-B927-D1753AE5E67C",
+    "name": "The Racha",
+    "score": 7.4621168171343015,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079004/079004a_hb_a_001.jpg",
+    "price": 15371.02,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "88239029-1C32-43AD-8525-6C45C61EDD2C",
+    "name": "Coriacea Boutique Resort",
+    "score": 6.737962283751585,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/54/543282/543282a_hb_t_001.jpg",
+    "price": 5097.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9FE56200-FB95-4376-980D-1B3340B523F7",
+    "name": "The Village Resort & Spa",
+    "score": 0.5119520345269848,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079143/079143a_hb_t_001.JPG",
+    "price": 2966.3,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "2D557D33-B85B-4765-A23B-F12735FD06D7",
+    "name": "Maya Phuket Airport Hotel",
+    "score": 3.570521034093872,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/44/441913/441913a_hb_a_001.jpg",
+    "price": 1976.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B798D4A6-CA2E-4A40-9049-E7D075E22F24",
+    "name": "Maikhao Dream Villa Resort and Spa (SHA+)",
+    "score": 5.269914147077543,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/147396/147396a_hb_a_010.jpg",
+    "price": 16623.86,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6C2D8790-5C05-40F2-B234-974C7261B0D2",
+    "name": "Mandarava Resort and Spa Karon Beach",
+    "score": 4.173782123892124,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/186448/186448a_hb_t_001.jpg",
+    "price": 5170,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "4991B5C8-E05F-49FE-94FF-E50E3370A861",
+    "name": "The Viridian Resort",
+    "score": 1.2050374304762954,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079005/079005a_hb_a_015.jpg",
+    "price": 1404.85,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6A0A47C0-42AA-44D9-A777-AB5EE590B744",
+    "name": "Karon Whale Resort, Phuket",
+    "score": 4.417621774202416,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138106/138106a_hb_a_001.jpg",
+    "price": 12593.59,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "2FEDBAA3-E349-47F4-8B04-0C4A8EB9F26A",
+    "name": "Novotel Phuket Karon Beach Resort & Spa",
+    "score": 5.3681739648955045,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/36/366601/366601a_hb_a_002.jpg",
+    "price": 3831.45,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "5A8AC75E-F7C0-4FB0-94F5-53B35E4DC926",
+    "name": "Sala Phuket Mai Khao Beach Resort (SHA Extra+)",
+    "score": 0.19502782520885376,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/084711/084711a_hb_a_003.jpg",
+    "price": 13768.28,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DD6347EA-C493-4AAE-A09D-F7D7C2063C65",
+    "name": "Sugar Marina Resort-Surf-Kata Beach",
+    "score": 1.9550975951478904,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/37/376297/376297a_hb_a_003.jpg",
+    "price": 2477.72,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "AE92E824-D40C-4A5C-8C7B-C727A9EC52EA",
+    "name": "Patong Resort (SHA Extra Plus)",
+    "score": 8.011622205956883,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/060708/060708a_hb_a_001.jpg",
+    "price": 2212.99,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B7E1A93C-7D86-4476-A909-889EFCF45115",
+    "name": "Malisa Villa Suites (SHA Extra+)",
+    "score": 3.3382410477624944,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079136/079136a_hb_a_001.JPG",
+    "price": 21601.2,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E39DFC5C-AACC-4034-91A0-F7F972F492B0",
+    "name": "BLU PINE Villa & Pool Access",
+    "score": 1.8827536529515783,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078862/078862a_hb_t_011.jpg",
+    "price": 3151.47,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BC6E15BA-CE20-4F17-B0D2-C9E9D5025C61",
+    "name": "The Bloc Hotel",
+    "score": 9.551600945109385,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/54/541624/541624a_hb_t_001.jpg",
+    "price": 2396.67,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A2837B84-C2AC-4B70-961B-68327251DAA0",
+    "name": "Proud Phuket Hotel",
+    "score": 5.7902870671905475,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/45/454341/454341a_hb_a_005.jpg",
+    "price": 3091,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "10C65A00-E9A3-490B-A67C-1FC7A9ED1487",
+    "name": "Centara Kata Resort Phuket (SHA+)",
+    "score": 9.060008663689587,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072642/072642a_hb_a_016.jpg",
+    "price": 3337.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "2FC1F9B3-432E-4729-9235-3895A0E655D5",
+    "name": "Nai Yang Beach Resort and Spa",
+    "score": 2.218607037210859,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/122086/122086a_hb_a_001.jpg",
+    "price": 27673.16,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C23B6661-5493-4E68-9D9A-7AFA3BDF470C",
+    "name": "Amala Grand Bleu",
+    "score": 4.186672113567511,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/63/635186/635186a_hb_a_001.jpg",
+    "price": 8679.33,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "40A9C01E-B459-47C1-8CD9-9469EBF59A92",
+    "name": "Shanaya Beach Resort & Spa Phuket",
+    "score": 0.059212410543295846,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/58/585200/585200a_hb_a_002.jpg",
+    "price": 2756.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "17C88E7E-97AE-4EFE-9D39-16FDB703C333",
+    "name": "Cape Sienna Phuket Gourmet Hotel&Villas(SHAPlus+)",
+    "score": 3.431995209625711,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/100675/100675a_hb_a_002.jpg",
+    "price": 4078.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F7F38ABD-CF93-4E5C-B955-D158D4CCC94F",
+    "name": "Nipa Resort",
+    "score": 8.817778877680212,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/088430/088430a_hb_a_009.jpg",
+    "price": 3522.48,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9DFD35DB-94E8-4914-A382-89919673CC4F",
+    "name": "Beyond Resort Kata (SHA Plus+)",
+    "score": 3.6222898353089477,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/027596/027596a_hb_a_001.jpg",
+    "price": 6351.18,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AA7633D0-DDDE-4E1B-AE6C-68079A4E6FB6",
+    "name": "LIV Hotel Phuket Patong Beachfront",
+    "score": 5.199092363755881,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/660789/660789a_hb_a_002.jpg",
+    "price": 12342,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3E232BF2-3C9D-468D-B40E-05813D7B4FA2",
+    "name": "Thavorn Beach Village Resort (SHA Plus+)",
+    "score": 7.924629373200332,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079131/079131a_hb_t_001.JPG",
+    "price": 3827.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E4485EEA-5713-4599-9296-C9B5908BD952",
+    "name": "Baba Beach Club Natai Hotel",
+    "score": 7.865325349354862,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/61/615681/615681a_hb_t_001.jpg",
+    "price": 16024.69,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "5F0E6C7D-60E6-494E-BFEB-992A4B812FE1",
+    "name": "The Blue Pearl Kata Hotel",
+    "score": 2.6261967204527537,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/44/447201/447201a_hb_a_001.jpg",
+    "price": 3160.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "848FD02A-DBE4-44EE-AA53-7C6A9235B013",
+    "name": "Naiyang Discovery Beach Resort SHA by ZUZU",
+    "score": 0.2278139766840468,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/81/811867/811867a_hb_a_001.jpg",
+    "price": 2257.16,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "73506BD0-818D-450B-9875-D3EF314EFC44",
+    "name": "Maikhao Palm Beach Resort (SHA Plus+)",
+    "score": 4.221700065829282,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/59/592423/592423a_hb_a_002.jpg",
+    "price": 2270.04,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "85FC73D0-90C3-4213-A633-3604CF8E4FCA",
+    "name": "Namaka Resort Kamala (SHA Extra Plus+)",
+    "score": 3.654545529729603,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078953/078953a_hb_a_001.jpg",
+    "price": 2448.57,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "9C79769E-CAAE-4123-9929-FD9D7B516E87",
+    "name": "Amora Resort Phuket",
+    "score": 3.354966825972042,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/053067/053067a_hb_a_004.jpg",
+    "price": 12870,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4EFA576A-CBDC-4725-A24E-F529723A5CF4",
+    "name": "KK - Karon Kata Boutique Hotel",
+    "score": 3.728369227380881,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/665513/665513a_hb_t_002.jpg",
+    "price": 1812.49,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "3B8F3AC3-4EA2-47F3-A628-4E657016B798",
+    "name": "The Beach Heights Resort",
+    "score": 1.3848992235707556,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/38/388237/388237a_hb_t_001.jpg",
+    "price": 3581.39,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DE7FBBDF-FCB6-4404-87E0-4E43758FC251",
+    "name": "The Charm Resort Phuket",
+    "score": 4.885682706576517,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/233136/233136a_hb_a_001.jpg",
+    "price": 2759.86,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "440C186C-1B06-42F8-B487-C3D346BCF154",
+    "name": "Baan Boa Resort",
+    "score": 3.251196861911012,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078889/078889a_hb_t_007.jpg",
+    "price": 1836.88,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "5ABC4ACB-A918-4D39-A382-2B51F8E2ADC4",
+    "name": "Kata Sea Breeze Resort (SHA Plus+)",
+    "score": 5.077463093042297,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138108/138108a_hb_t_001.jpg",
+    "price": 2222.56,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "39144C5B-21F7-4E62-B0A6-0744474CC401",
+    "name": "The Malika Hotel",
+    "score": 5.1870170005668115,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/56/560002/560002a_hb_a_001.jpg",
+    "price": 1728.25,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4B7A2450-7860-487C-8311-FF8A9A8BA40F",
+    "name": "La Flora Resort and Spa Patong",
+    "score": 8.638365609700031,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/096758/096758a_hb_a_015.jpg",
+    "price": 27835.93,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1F3F5F2A-1F3E-47BE-8397-3E8EECB9C026",
+    "name": "OZO Phuket",
+    "score": 2.817126786213521,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/652190/652190a_hb_a_018.jpg",
+    "price": 12253.89,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9269C482-5533-4330-A3C7-0720BA9F2615",
+    "name": "Kata Palm Resort and Spa (SHA Plus+)",
+    "score": 8.422112854695115,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025745/025745a_hb_a_014.jpg",
+    "price": 2389.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CD20098D-52B8-49E6-8E82-7790A1C90449",
+    "name": "The Kee Resort & Spa (SHA Plus+)",
+    "score": 0.052723615102877375,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/135693/135693a_hb_a_042.jpg",
+    "price": 3963.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F821881D-D78C-4888-9F41-86F74928E97C",
+    "name": "Phuket Graceland Resort & Spa (SHA Plus+)",
+    "score": 5.450573385263851,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/053072/053072a_hb_t_002.jpg",
+    "price": 15543,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "494B6AA9-8371-4D46-A5D4-4098D11F1BF6",
+    "name": "Pamookkoo Resort",
+    "score": 6.497656506198382,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/689006/689006a_hb_t_001.jpg",
+    "price": 3934.17,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "5B14A7B0-326F-410E-8861-57AFF9B07C8C",
+    "name": "Little Nyonya Hotel",
+    "score": 1.3064178700592493,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/43/431495/431495a_hb_t_003.jpg",
+    "price": 8659.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3D51B069-AAC0-440E-AF24-5AAF43E1694F",
+    "name": "Kata Poolside Resort",
+    "score": 4.653903030347465,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078856/078856a_hb_t_001.jpg",
+    "price": 1765.43,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "5ED9B0A9-75BB-4B28-9E2E-B2A43E921F81",
+    "name": "Wings Phuket Villa by Two Villas HOLIDAY",
+    "score": 5.802606803172239,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/37/370937/370937a_hb_a_002.jpg",
+    "price": 3288.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "241FFA25-FC49-4A3E-8490-A3CC92D27B48",
+    "name": "Racha Island Resort",
+    "score": 1.4840796215812588,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/157057/157057a_hb_t_001.jpg",
+    "price": 7141.08,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "14069123-BFEB-45DA-A81E-9A9ADB59FBFA",
+    "name": "Anantara Layan Phuket Resort (SHA Extra+)",
+    "score": 2.7088968761740944,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/230854/230854a_hb_t_001.jpg",
+    "price": 16974.1,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B1012762-42A8-494F-9056-573B8FE4FAC3",
+    "name": "Sugar Marina Resort-FASHION-Kata Beach",
+    "score": 2.8409762738347126,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079137/079137a_hb_a_001.jpg",
+    "price": 2153.01,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "984CC2BD-EA32-49ED-A97A-D67B1BF96583",
+    "name": "Be Leaf Resort SHA by ZUZU",
+    "score": 2.22020395074469,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/73/739144/739144a_hb_a_003.jpg",
+    "price": 1597.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "B182531C-4AD4-4779-A5C2-25D5C9437DF9",
+    "name": "Dusit Thani Laguna Phuket",
+    "score": 7.964988937168982,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/060705/060705a_hb_a_001.JPG",
+    "price": 16858.24,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "399395BE-A124-4DDF-A6C9-DC35FDFB2AD1",
+    "name": "Seaview Patong (SHA Plus+)",
+    "score": 3.450219464392376,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/027602/027602a_hb_t_001.jpg",
+    "price": 2422.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7D995F5F-2265-410F-8E32-C2C51DFEB1C3",
+    "name": "Ramada by Wyndham Phuket Patong",
+    "score": 4.1844039657135,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/41/414018/414018a_hb_a_001.jpg",
+    "price": 2700.67,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DB40430C-B974-4467-B7BC-CA4725B0860A",
+    "name": "Avani+ Mai Khao Phuket Suites & Villas(SHA Extra+)",
+    "score": 9.584244286997546,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/685689/685689a_hb_t_001.jpg",
+    "price": 13844.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "09907FC9-7011-4C0F-AF02-2F4E78E43E9E",
+    "name": "Andaman Beach Suites",
+    "score": 7.1420220230402265,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/072636/072636a_hb_t_001.jpg",
+    "price": 3868.03,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3FF3BB3E-3B54-4F63-9AA2-049F6F506E17",
+    "name": "SAMSAM Yao Noi - Tropical Magic & Art Villas",
+    "score": 5.260847595899577,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/72/726761/726761a_hb_t_001.jpg",
+    "price": 31534.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "0DAD14A0-7B3B-47FF-B0A9-E693F61A2C21",
+    "name": "The Bliss Hotel South Beach Patong",
+    "score": 2.9748287584238824,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/232995/232995a_hb_a_003.jpg",
+    "price": 5363.36,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BF72BD07-2ED5-4A29-A802-D120B5B6F7C6",
+    "name": "Twinpalms Montazure",
+    "score": 4.5229595439782315,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/65/657241/657241a_hb_t_001.jpg",
+    "price": 13783,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "440E6C38-B349-4903-BC27-B223F39E9EEF",
+    "name": "Amari Phuket (SHA Plus+)",
+    "score": 7.128192141766476,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/061813/061813a_hb_a_043.jpg",
+    "price": 14499.87,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FAF818A6-F0A3-40C6-B388-0BA58E0BD228",
+    "name": "Mission Hills Phuket Golf Resort & Spa",
+    "score": 1.8163593182800923,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079135/079135a_hb_a_001.jpg",
+    "price": 6957.26,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "9245F63C-8D32-4D61-982F-055CD6BF6476",
+    "name": "Impiana Resort Patong Phuket (SHA Plus+)",
+    "score": 1.5339009652097957,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025744/025744a_hb_t_003.jpg",
+    "price": 14800.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "7223F3E7-ADEA-4652-BA9A-6D9B7FF3671A",
+    "name": "Nap Patong (SHA Certified)",
+    "score": 0.5365420866282875,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/14/148739/148739a_hb_a_037.jpg",
+    "price": 5778.03,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D5C8AB49-0BC6-4F4A-B5B9-E5C88ED15D8C",
+    "name": "The Cobble Beach Hotel",
+    "score": 3.025608345323917,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/686746/686746a_hb_a_002.jpg",
+    "price": 2758.97,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "A842609C-A9BA-4265-A4D1-A423A84DB6DB",
+    "name": "Aspery Hotel",
+    "score": 1.029359040205918,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/107961/107961a_hb_t_001.jpg",
+    "price": 1289.6,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "3998D6C6-2A38-4903-AED8-3D2796930986",
+    "name": "Kalima Resort & Spa (SHA Plus+)",
+    "score": 5.134631973040996,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/172746/172746a_hb_t_001.jpg",
+    "price": 25258.75,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "51D3B550-CBD7-40C5-96D6-1F84BF849C2B",
+    "name": "Wyndham Grand Nai Harn Beach Phuket(SHA Plus+)",
+    "score": 5.105546836147823,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/663496/663496a_hb_a_001.jpg",
+    "price": 6360.87,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "17EC343B-2422-4972-8A25-33ED308D9DD6",
+    "name": "Crowne Plaza Phuket Panwa Beach (SHA Extra Plus+)",
+    "score": 9.247439348117041,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/173310/173310a_hb_a_002.jpg",
+    "price": 6268.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A2CE6FAE-5018-4E22-8053-F087E337C4EE",
+    "name": "Naina Resort & Spa",
+    "score": 3.7475500222897153,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/53/538863/538863a_hb_t_001.jpg",
+    "price": 2470.19,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "65DB38F7-3FF4-44C2-8CC2-0C9CB0B7D203",
+    "name": "The Yama Hotel Phuket",
+    "score": 7.874462735299176,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/37/371135/371135a_hb_a_007.jpg",
+    "price": 2437.66,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "EFBB4595-E620-485F-A193-014B24607058",
+    "name": "Deevana Patong Resort & Spa",
+    "score": 9.269916331438708,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033676/033676a_hb_a_001.jpg",
+    "price": 2643.99,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A3053F68-6BF5-4A1F-A32F-7CB384995CB3",
+    "name": "Indochine Resort  Villas",
+    "score": 7.51332034894881,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/231286/231286a_hb_a_046.jpg",
+    "price": 14922.48,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1C31909C-C020-4F51-96AF-C6DF71900803",
+    "name": "Anantara Mai Khao Phuket Villas (SHA Extra+)",
+    "score": 4.413073824328649,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/104846/104846a_hb_a_022.jpg",
+    "price": 26768.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D9EB5579-3C72-4AAA-8550-9A91853B63B3",
+    "name": "Duangjitt Resort & Spa",
+    "score": 5.608481720365944,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025400/025400a_hb_a_001.jpg",
+    "price": 4284.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8F9D2DFA-FD90-4601-9B3B-8C398A13DB9C",
+    "name": "The Senses Resort & Pool Villas (SHA Plus+)",
+    "score": 8.809679592624889,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/18/181027/181027a_hb_a_001.jpg",
+    "price": 12429.45,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3F037C10-7D12-411A-A972-28A49BE277D8",
+    "name": "Anantara Vacation Club Mai Khao Phuket",
+    "score": 6.274518814472003,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/19/196690/196690a_hb_a_001.jpg",
+    "price": 15050.31,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "85E216AD-1BAA-4BC7-9AEC-32B9EC68FAC0",
+    "name": "The Old Phuket Karon Beach Resort (SHA Plus+)",
+    "score": 3.4189536642431904,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/078971/078971a_hb_t_008.jpg",
+    "price": 4491.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D69DD55E-A90A-4F99-9F0F-14418D5D50FB",
+    "name": "Villa 360 Resort and Spa",
+    "score": 5.463129752660279,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/22/225698/225698a_hb_t_001.jpg",
+    "price": 7951.81,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "C06D706B-9FCD-400E-A08A-BDE458F3ACC6",
+    "name": "Ao Nang Cliff View Resort",
+    "score": 4.2725046226439645,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/17/173816/173816a_hb_a_003.JPG",
+    "price": 2367.77,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D9723C05-C8BD-4672-949A-A630EB20A073",
+    "name": "Marina House MUAYTHAI Ta-iad Phuket",
+    "score": 8.031004692953957,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/88/886668/886668a_hb_a_001.jpeg",
+    "price": 2149.43,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0626E29C-4021-4C8C-8E84-31EEBDFB78FB",
+    "name": "Kata Rocks",
+    "score": 3.691897783407285,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/36/368261/368261a_hb_a_004.jpg",
+    "price": 26374.27,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "BBA1387D-6294-4269-8042-E9CED8B52DF4",
+    "name": "Burasari Phuket",
+    "score": 2.0880965164806184,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033678/033678a_hb_a_100.jpg",
+    "price": 13695,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CADC0958-65A1-4608-BF01-667E5C5B0D07",
+    "name": "Chivatara Resort Bang Tao Beach Phuket",
+    "score": 5.67355929780183,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/557544/557544a_hb_a_001.jpg",
+    "price": 1683,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "24567186-B95B-4E49-8169-5D4C714D41F1",
+    "name": "Sunwing Kamala Beach (SHA Plus+)",
+    "score": 4.099574375382076,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/12/120253/120253a_hb_a_001.jpg",
+    "price": 12954.15,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "3DED8270-21CD-442B-A300-CAE0265039D7",
+    "name": "Phi Phi Natural Resort",
+    "score": 6.009019802678722,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081559/081559a_hb_a_001.jpg",
+    "price": 15400,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FB318767-97CE-4850-B3D0-6F5E81996CB5",
+    "name": "Sugar Palm Grand Hillside",
+    "score": 9.844089851508215,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/099933/099933a_hb_t_001.jpg",
+    "price": 2225.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "64BCD3CB-10E2-4E17-B1B4-A91F81EDBBD4",
+    "name": "Phi Phi Holiday Resort",
+    "score": 5.82422223394974,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/06/060703/060703a_hb_t_001.jpg",
+    "price": 5767.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B98EAE0D-ED06-4653-97DC-000C7BD9A333",
+    "name": "PP Erawan Palms Resort",
+    "score": 9.74335897657113,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080457/080457a_hb_a_004.jpg",
+    "price": 3777.47,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "572215C3-3B5D-49F3-B0D6-0D7A657C2AFA",
+    "name": "The Village Coconut Island (SHA Extra Plus)",
+    "score": 8.144838491479277,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/106641/106641a_hb_a_002.jpg",
+    "price": 13448.75,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A131AF60-89FD-4A2A-9A26-38C54FBF2605",
+    "name": "Sugar Marina Resort-ART-Karon Beach",
+    "score": 4.725519510134859,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/09/090059/090059a_hb_a_002.jpg",
+    "price": 2167,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "CBF6813B-4339-4FFF-A8D2-625495C9134E",
+    "name": "Angsana Laguna Phuket (SHA Plus+)",
+    "score": 1.867895149824335,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/15/156952/156952a_hb_t_001.jpg",
+    "price": 6157.4,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "F64803E7-CEFE-4E14-A9C1-C75396D97030",
+    "name": "Pullman Phuket Panwa Beach Resort",
+    "score": 7.639754106566784,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/11/119977/119977a_hb_a_008.JPG",
+    "price": 6994.65,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "6716402B-56D2-4932-A64F-F2235ACB15A3",
+    "name": "Phi Phi Nice Beach Hotel Hip",
+    "score": 8.82634053958202,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/66/668352/668352a_hb_a_001.jpg",
+    "price": 12375,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "AFD70B3B-0541-41CC-90B1-03A94C01D47A",
+    "name": "Phi Phi Andaman Legacy Resort",
+    "score": 5.064839903761481,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/106095/106095a_hb_a_001.jpg",
+    "price": 3320.37,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "869692DC-4957-42A3-B739-744375808B4D",
+    "name": "Phi Phi Andaman Beach Resort",
+    "score": 5.042870102205427,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/13/138125/138125a_hb_a_001.jpg",
+    "price": 2359.88,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "DA4EDDEF-AF39-4AD0-B0D5-617B5BA5E835",
+    "name": "Marina Gallery Resort -KACHA- Kalim Bay",
+    "score": 3.1979975032101606,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/68/687109/687109a_hb_t_001.jpg",
+    "price": 2293.42,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "FA480A41-564F-4E43-90EE-2540D35553E6",
+    "name": "Phuket Island View (SHA Extra+)",
+    "score": 2.7142572576111093,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/07/079148/079148a_hb_a_001.jpg",
+    "price": 2372.55,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B863A87B-FBC1-4D81-948A-5100FFEDA164",
+    "name": "Royal Yao Yai Island Beach Resort -SHA Extra Plus+",
+    "score": 6.139814383398402,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/90/900214/900214a_hb_a_001.jpg",
+    "price": 4235.64,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "4ACE9B1B-31D0-403A-A398-1B79DC9719F3",
+    "name": "Twinpalms Phuket (SHA Plus+)",
+    "score": 6.993134353601931,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/05/053068/053068a_hb_t_001.jpg",
+    "price": 18554.8,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "03616999-FF0E-4670-B4D9-F864B80C1B06",
+    "name": "Sinae Phuket Luxury Hotel (SHA Extra Plus+)",
+    "score": 9.390764804266723,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/88/885245/885245a_hb_t_001.jpeg",
+    "price": 16053.35,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "D82A8801-9361-4DA9-8E9A-9EAA1844788E",
+    "name": "Rosewood Phuket",
+    "score": 4.547747745290394,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/55/551801/551801a_hb_t_001.jpg",
+    "price": 30639.79,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "B2CFF97E-98F5-40AC-A2E7-9224D21C0AD4",
+    "name": "Kamala Beach Resort (a Sunprime Resort) (SHA+)",
+    "score": 7.423178039198717,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080770/080770a_hb_a_001.jpg",
+    "price": 9509.5,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "1CDAECC6-3E5D-4F47-B70B-629575627FDD",
+    "name": "Trisara",
+    "score": 8.903570526303895,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033677/033677a_hb_a_032.jpg",
+    "price": 133317.01,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "2FED82C9-6F53-492D-AA44-FE2E84484FBC",
+    "name": "COMO Point Yamu, Phuket",
+    "score": 0.6217543521706546,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/23/230959/230959a_hb_t_001.jpg",
+    "price": 13529.73,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E4A39C90-AB10-436F-A06D-A5E0B6EC5BD3",
+    "name": "Cassia Phuket",
+    "score": 8.489986009398535,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/44/441879/441879a_hb_t_001.jpg",
+    "price": 2663.31,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A95DD64E-DABB-43FA-87C9-13F59174B2C4",
+    "name": "Angsana Villas Resort Phuket",
+    "score": 2.961359607653094,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/088165/088165a_hb_t_010.jpg",
+    "price": 13769.16,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "DC8714B5-8FB0-4AA0-9B5E-9EB6413885F1",
+    "name": "Malinee Resort by ZUZU",
+    "score": 0.4623650979937963,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/88/886262/886262a_hb_a_001.jpg",
+    "price": 4058.49,
+    "policy": {
+      "breakfast_included": false,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "8C6F0258-D223-413C-B231-E4084E7C4E97",
+    "name": "Banyan Tree Phuket (SHA Plus+)",
+    "score": 4.5046162309168665,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/03/033580/033580a_hb_a_005.jpg",
+    "price": 20515.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "A921D9F2-874A-4BCB-95A6-386F6C54481F",
+    "name": "Splash Beach Resort Phuket (SHA Plus+)",
+    "score": 1.7861538659527696,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/10/109611/109611a_hb_t_002.jpg",
+    "price": 12458.63,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "82E358A8-875B-4F00-9C5F-2C34696EBAAA",
+    "name": "Zeavola (SHA Extra Plus+)",
+    "score": 0.3820265757209995,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/081989/081989a_hb_t_001.jpg",
+    "price": 9507.74,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": true
+    }
+  },
+  {
+    "id": "E4684342-610C-4BCF-8834-78DFAE094BBD",
+    "name": "Coconut Village Resort (SHA Plus+)",
+    "score": 7.633433317821755,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/027836/027836a_hb_a_002.jpg",
+    "price": 1264.37,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F7538656-4EC7-4BE6-B083-226EF360B5ED",
+    "name": "Andaman Seaview (SHA Plus+)",
+    "score": 3.360271498993697,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/02/025298/025298a_hb_t_001.jpg",
+    "price": 2797.62,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "F0E62B6C-6365-4A34-91E9-D08BF4CEBB29",
+    "name": "Melia Phuket Mai Khao (SHA Plus+)",
+    "score": 7.051606970054877,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/89/892632/892632a_hb_a_001.jpg",
+    "price": 13556.84,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "35D1C969-82D7-4645-B0A6-4ED74A002728",
+    "name": "Grand Mercure Phuket Patong",
+    "score": 3.664465732254918,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/25/253544/253544a_hb_a_099.jpg",
+    "price": 3263.9,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "E4AA29FD-4D3B-4252-BDD0-F0B50FDC1DB2",
+    "name": "Phi Phi Bayview Premier",
+    "score": 1.3249507073960878,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/082290/082290a_hb_t_001.JPG",
+    "price": 2813.94,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  },
+  {
+    "id": "0ABCA6DB-2514-47C1-B53C-7F32CBD14A9D",
+    "name": "Bay View Resort Phi Phi Island",
+    "score": 1.1248522479556797,
+    "main_photo": "https://photos.hotelbeds.com/giata/bigger/08/080458/080458a_hb_t_002.jpg",
+    "price": 4253.44,
+    "policy": {
+      "breakfast_included": true,
+      "free_cancellation": false
+    }
+  }
+]
