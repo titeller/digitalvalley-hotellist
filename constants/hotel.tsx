@@ -1,0 +1,1 @@
+export const imageHotelDefault = '/images/hotel.jpg'
