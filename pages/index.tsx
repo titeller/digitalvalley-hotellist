@@ -1,37 +1,28 @@
 import React, { useState, useEffect } from 'react'
 import { NextPage, GetServerSideProps } from 'next'
 import Image from 'next/image'
-import axios from 'axios'
 
 import Hotel from '../components/Hotel'
 import Loader from '../components/Loader'
 
 import { IHotel } from '../@types/hotel'
-import { apiHotelEndPoint } from '../constants/api'
+import { getAllHotels, getHotelsCount } from '../utils/hotel'
 
-interface HomeProps {
-  hotels: IHotel[];
+interface IHome {
+  allHotels: IHotel[];
   hotelsCount: number;
   offset: number;
   limit: number;
 }
 
-const fetchHotels = async (offset: number, limit: number) => {
-  const url = `${apiHotelEndPoint}/hotel?offset=${offset}&limit=${limit}`
-  const response = await axios.get(url)
-  return response
-}
-
-const fetchHotelsCount = async () => {
-  const url = `${apiHotelEndPoint}/hotel/count`
-  const response = await axios.get(url)
-  return response
-}
-
-const Home: NextPage<HomeProps> = (props) => {
-  const { limit, hotelsCount } = props
-  const [hotels, setHotels] = useState(props.hotels)
-  const [offset, setOffset] = useState(props.offset)
+const Home: NextPage<IHome> = ({
+  allHotels,
+  hotelsCount,
+  offset,
+  limit
+}) => {
+  const [hotels, setHotels] = useState(allHotels)
+  const [currentOffset, setCurrentOffset] = useState(offset)
   const [isLoading, setIsLoading] = useState(false)
   const [isFecthEmpty, setIsFecthEmpty] = useState(false)
 
@@ -47,10 +38,10 @@ const Home: NextPage<HomeProps> = (props) => {
       setIsLoading(true)
 
       setTimeout(async () => {
-        const newOffset = offset + limit
-        const response = await fetchHotels(newOffset, newOffset + limit)
+        const newCurrentOffset = currentOffset + limit
+        const response = await getAllHotels(newCurrentOffset, newCurrentOffset + limit)
         if (response?.data.length > 0) {
-          setOffset(newOffset)
+          setCurrentOffset(newCurrentOffset)
           const newHotels = [
             ...hotels,
             ...response.data
@@ -103,14 +94,20 @@ const Home: NextPage<HomeProps> = (props) => {
   )
 }
 
-export const getServerSideProps: GetServerSideProps = async () => {
+export const getServerSideProps: GetServerSideProps = async ({ res }) => {
   const offset = 0
   const limit = 50
-  const responseHotels = await fetchHotels(offset, limit)
-  const responseHotelsCount = await fetchHotelsCount()
+  const responseHotels = await getAllHotels(offset, limit)
+  const responseHotelsCount = await getHotelsCount()
+
+  res.setHeader(
+    'Cache-Control',
+    'public, s-maxage=10, stale-while-revalidate=59'
+  )
+
   return {
     props: {
-      hotels: responseHotels.data,
+      allHotels: responseHotels.data,
       hotelsCount: responseHotelsCount.data,
       offset,
       limit

@@ -1,13 +1,11 @@
-import React, { FC, ReactNode } from 'react'
+import React, { FC } from 'react'
 
 import Header from './Header'
 import Meta from './Meta'
 
-interface LayoutProps {
-  children: ReactNode
-}
+import { ILayout } from '../@types/layout'
 
-const Layout: FC<LayoutProps> = ({ children }) => {
+const Layout: FC<ILayout> = ({ children }) => {
   return (
     <>
       <Meta
@@ -19,4 +17,5 @@ const Layout: FC<LayoutProps> = ({ children }) => {
     </>
   )
 }
+
 export default Layout

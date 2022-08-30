@@ -1,6 +1,7 @@
 import React, { FC, useState } from 'react'
-import Image from 'next/image'
 import { AiFillStar } from 'react-icons/ai'
+
+import Image from './Image'
 
 import { getHotelScoreFormat, getHotelPriceFormat, getHotelStarsFromScore } from '../utils/hotel'
 import { IHotel } from '../@types/hotel'
@@ -15,23 +16,18 @@ const Hotel: FC<HotelProps> = ({ hotel }) => {
   const score = getHotelScoreFormat(hotel.score)
   const price = getHotelPriceFormat(hotel.price)
   const stars = getHotelStarsFromScore(hotel.score)
-  const [imageHotel, setImageHotel] = useState(hotel.main_photo)
 
   return (
     <div className="flex flex-1 bg-white mt-3 p-3 rounded-xl shadow-sm">
       <div className="relative w-[112px] h-[112px]">
         <Image
           className="rounded-xl bg-gray-light"
-          src={imageHotel}
+          src={hotel.main_photo}
           alt={hotel.name}
-          quality={30}
+          quality={45}
           layout="fill"
           objectFit="cover"
-          placeholder="blur"
-          blurDataURL={hotel.main_photo}
-          onError={() => {
-            setImageHotel(imageHotelDefault)
-          }}
+          srcError={imageHotelDefault}
         />
       </div>
       <div className="flex-1 px-3">

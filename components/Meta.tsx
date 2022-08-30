@@ -1,12 +1,8 @@
 import Head from 'next/head'
 
-type Props = {
-  title: string
-  keywords: string
-  description: string
-}
+import { TMeta } from '../@types/meta'
 
-const Meta = ({ title, keywords, description }: Props) => {
+const Meta = ({ title, keywords, description }: TMeta) => {
   return (
     <Head>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
