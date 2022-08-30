@@ -1,0 +1,1 @@
+export const apiHotelEndPoint = 'http://localhost:3000/api'
