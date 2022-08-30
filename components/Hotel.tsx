@@ -24,7 +24,7 @@ const Hotel: FC<HotelProps> = ({ hotel }) => {
           className="rounded-xl bg-gray-light"
           src={imageHotel}
           alt={hotel.name}
-          quality={65}
+          quality={30}
           layout="fill"
           objectFit="cover"
           placeholder="blur"

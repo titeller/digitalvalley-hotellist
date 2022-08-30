@@ -1,7 +1,7 @@
 import React, { FC, ReactNode } from 'react'
-import Head from 'next/head'
 
 import Header from './Header'
+import Meta from './Meta'
 
 interface LayoutProps {
   children: ReactNode
@@ -10,11 +10,8 @@ interface LayoutProps {
 const Layout: FC<LayoutProps> = ({ children }) => {
   return (
     <>
-      <Head>
-        <title>Hotels</title>
-        <meta name="description" content="Hotels in Thailand." />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      </Head>
+      <Meta
+      />
       <Header title="Phuket" />
       <main>
         {children}
