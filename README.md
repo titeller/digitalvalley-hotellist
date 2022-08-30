@@ -12,8 +12,8 @@ yarn dev
 
 Run using docker
 ```bash
-Build your container: docker build -t nextjs-docker .
-Run your container: docker run -p 3000:3000 nextjs-docker
+docker build -t nextjs-docker .
+docker run -p 3000:3000 nextjs-docker
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
