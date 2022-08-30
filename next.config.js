@@ -5,6 +5,7 @@ const nextConfig = {
   images: {
     domains: ['photos.hotelbeds.com'],
   },
+  output: 'standalone',
 }
 
 module.exports = nextConfig
