@@ -1,4 +1,4 @@
-![alt text](https://github.com/titeller/datawow-todoapp/blob/main/public/demo.gif)
+![alt text](https://github.com/titeller/digitalvalley-hotellist/blob/main/public/preview.gif)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
